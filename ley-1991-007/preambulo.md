@@ -1,0 +1,6 @@
+El Presidente del Gobierno:
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 11.7 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
+PREÁMBULO
+Gran parte de los problemas ambientales que padece la sociedad moderna radican en la actitud distante y ajena que mantienen las personas respecto de su entorno.
+Los Gobiernos de las Naciones se vienen esforzando en cambiar esta actitud a través de programas que pretenden educar y mentalizar a los ciudadanos sobre los problemas ambientales. Sin embargo, en muchos casos, los cambios de actitud residen mas en la seducción y sensibilización de las personas hacia algo determinado, que en procesos estrictamente racionales.
+Siguiendo este principio, la presente Ley establece símbolos animales y vegetales tomados de la naturaleza para cada una de las islas del archipiélago, y para toda la Región con el objeto de que, a través de su empleo en actividades escolares, en el protocolo y del que hagan los ciudadanos y las empresas, tales símbolos sirvan para aproximar los valores naturales del archipiélago a sus habitantes y conseguir, de este modo, un mayor respeto y cariño por los mismos y por el entorno.
