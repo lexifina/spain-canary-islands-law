@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Desarrollo reglamentario del texto refundido de las Leyes de Ordenación del Territorio y Espacios Naturales de Canarias.
+Como medida complementaria del desarrollo del Plan de Vivienda, el Gobierno impulsará el desarrollo de los artículos 100 y siguientes (sistemas de ejecución privada) y 148 y siguientes (ejecución de la edificación por sustitución del propietario) del Decreto Legislativo 1/2000, de 8 de mayo, por el que se aprueba el texto refundido de las Leyes de Ordenación del Territorio y Espacios Naturales de Canarias.
