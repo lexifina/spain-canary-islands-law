@@ -1,0 +1,5 @@
+Artículo cuarto.
+1. La utilización de la zona periférica de protección mediante la realización de actividades extractivas y las concesiones administrativas en dicha zona estarán sujetas a un canon ambiental de carácter compensatorio a ingresar en el Tesoro de la Comunidad Autónoma de Canarias, sin perjuicio de cualquier otro que pueda imponerse en virtud de la legislación sectorial minera.
+2. El canon ambiental estará destinado a la conservación, gestión y mejora del paisaje protegido de La Isleta y del área A de la zona periférica. Se abonará por los sujetos y en la cuantía que a continuación se indica:
+a) Por la entidad beneficiaria de la extracción minera, trimestralmente, en cuantía equivalente a 100 pesetas el metro cúbico de la cantidad de material de cantera basáltica autorizado para extraer en cada período trimestral.
+b) Por los titulares de las concesiones administrativas que se sitúen en el área B, un importe equivalente al 25 por 100 del Impuesto de Bienes Inmuebles que graven las mismas.
