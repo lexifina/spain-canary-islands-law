@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan, contradigan o sean incompatibles con los preceptos de esta Ley y en especial el título II de la Ley Territorial 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, y la Ley 8/1986, de 18 de noviembre, de Régimen Jurídico de las Administraciones Públicas Canarias.
