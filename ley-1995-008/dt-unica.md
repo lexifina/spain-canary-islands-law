@@ -1,0 +1,2 @@
+Disposición transitoria única.
+No será preceptiva la aplicación de la presente Ley a las obras en construcción, a los proyectos que tengan solicitada o concedida licencia de obra y, a los que hayan sido aprobados por las administraciones públicas o visados por los colegios profesionales en la fecha de entrada en vigor de ésta, sin perjuicio de su adecuación a las prescripciones de la Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos, y al Decreto 556/1989, de 19 de mayo, que la desarrolla.
