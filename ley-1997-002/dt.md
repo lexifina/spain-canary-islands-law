@@ -1,0 +1,2 @@
+Disposición transitoria.
+A las modalidades de los Premios Canarias previstas para 1997 no les serán de aplicación los plazos establecidos en los artículos 5.3 y 6.1 y 3 de la presente Ley, debiendo procederse al nombramiento formal de los miembros de los jurados y a la propuesta al Presidente del Gobierno por parte de los mismos, en los dos meses siguientes a la entrada en vigor de esta Ley, y, en todo caso, antes del 30 de mayo, día de Canarias.
