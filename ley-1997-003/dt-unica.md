@@ -1,0 +1,3 @@
+Disposición transitoria única. Primeras declaraciones.
+1. Quienes ostenten la condición de alto cargo a la entrada en vigor de esta Ley deberán presentar las declaraciones de actividades y de bienes y derechos patrimoniales a que se refiere la misma, en el plazo de tres meses a contar desde dicha fecha, con referencia a la situación que tuviesen en el momento de hacer las declaraciones.
+2. Asimismo, los altos cargos a que se refiere el apartado anterior que a la entrada en vigor de la presente Ley estén incursos en algunos de los supuestos de incompatibilidad que en la misma se establecen, deberán regularizar su situación conforme a esta Ley en el mismo plazo previsto en el apartado anterior.
