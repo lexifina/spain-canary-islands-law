@@ -1,0 +1,4 @@
+Artículo 85 bis.
+1. La diferencia entre la jornada reglamentaria de trabajo y la efectivamente realizada por el personal al servicio de la Administración Pública de la Comunidad Autónoma, llevará aparejada, salvo que concurra causa justificada, la correspondiente deducción de haberes, con independencia de que el incumplimiento del horario o la inasistencia al trabajo injustificados pueda dar lugar a la adopción de las medidas disciplinarias correspondientes.
+2. Por el titular de la consejería competente en materia de función pública, previo informe de la consejería competente en materia de hacienda, se establecerá el valor hora y la forma de cálculo de dicha deducción, tomando como base la totalidad de las retribuciones que perciba el funcionario.
+Se añade por el art. 14.2 de la Ley 4/2001, de 6 de julio. Ref. BOE-A-2001-14279
