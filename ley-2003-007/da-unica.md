@@ -1,0 +1,2 @@
+Disposición adicional única. Fallecimiento, incapacidad o renuncia de un diputado.
+En caso de fallecimiento, incapacidad o renuncia de un diputado, el escaño será atribuido al candidato o, en su caso, al suplente, de la misma lista a quien corresponda, atendiendo a su orden de colocación.
