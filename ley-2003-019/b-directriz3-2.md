@@ -1,0 +1,5 @@
+Directriz 3. Criterios. (NAD)
+Constituyen criterios básicos en la elaboración de las presentes Directrices los siguientes:
+a) La fijación de los límites razonables de crecimiento turístico y los aplicables a la clasificación y calificación del suelo turístico sobre la base de unos parámetros de calidad basados en los niveles de infraestructura y la conservación del patrimonio natural, cultural y del paisaje insular, teniendo presente la escasez de los recursos naturales, la fragilidad de los ecosistemas insulares, la evolución económica de cada isla y las expectativas sociales y laborales de la población.
+b) El fomento de la renovación y sustitución de la planta alojativa inadecuada y la regeneración de la ciudad turística degradada.
+c) La primacía de la calidad sobre el crecimiento cuantitativo y la orientación de la actividad turística hacia los sectores más rentables, que comporten el incremento de la productividad por gasto, especialización y duración de la estancia, así como la creación de una oferta multitemática diversa y amplia.

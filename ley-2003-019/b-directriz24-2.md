@@ -1,0 +1,6 @@
+CAPÍTULO IV
+Condiciones del crecimiento
+Directriz 24. Objetivos. (NAD)
+1. La conveniencia de un crecimiento selectivo se justifica en la creación de nuevos productos cualificados, que diversifiquen la oferta, y que tengan la capacidad de innovar el mercado, atraer otros segmentos de demanda, competir con otros destinos, y contribuir al crecimiento de la economía local y del archipiélago.
+2. La necesidad de ordenar y dimensionar el crecimiento alojativo parte de la exigencia de reducir las afecciones ambientales y territoriales, directas e inducidas, sobre un medio frágil, así como de atemperar el crecimiento a la capacidad de absorción de la sociedad local y la disponibilidad de las infraestructuras y servicios, y de atender al carácter estratégico y prioritario que las presentes Directrices otorgan a la renovación de la planta turística existente, por su mayor grado de sostenibilidad, en tanto que constituye una reutilización eficiente del patrimonio urbano e inmobiliario existentes.
+3. La implantación de actividades turísticas complementarias que incrementen la calidad del destino y diversifiquen la oferta sin aumento de la planta alojativa no será objeto de límites cuantitativos, salvo los que imponga el planeamiento insular por razones ambientales y territoriales.

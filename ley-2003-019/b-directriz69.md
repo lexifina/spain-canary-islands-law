@@ -1,0 +1,3 @@
+Directriz 69. Compacidad, edificabilidad y densidad. (ND)
+1. El planeamiento procurará el uso eficiente del suelo mediante el incremento de la densidad bruta de los núcleos, a partir de sus densidades actuales y sus características morfológicas y sin que ello signifique merma de la calidad de vida.
+2. El planeamiento insular determinará horquillas de densidades mínimas, por tipos de núcleos y municipios, para los suelos urbanizables residenciales, de acuerdo con el criterio de incrementar la densidad bruta de los núcleos y su edificabilidad, a partir de su densidad actual y conforme a sus características morfológicas.

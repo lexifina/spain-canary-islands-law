@@ -1,0 +1,3 @@
+Directriz 71. Criterios de localización. (ND)
+1. El planeamiento general dispondrá los nuevos sectores de suelo urbanizable como ensanches, en contigüidad y extensión de suelos urbanos existentes. No podrá clasificarse suelo urbanizable en extensión de asentamientos rurales y agrícolas.
+2. El planeamiento insular podrá prever, expresa y excepcionalmente, la clasificación de suelo urbanizable aislado, solamente cuando se destine a uso industrial o terciario de carácter supramunicipal, así como a complejos turísticos integrados por equipamiento con alojamiento dentro de las zonas turísticas delimitadas por el mismo planeamiento.

@@ -1,0 +1,5 @@
+Directriz 42. Criterios para la recogida de residuos urbanos.
+1. (NAD) El Gobierno de Canarias, en concertación con las restantes administraciones públicas canarias, establecerá un programa para la efectiva implantación de la recogida selectiva de papel, cartón y vidrio en la totalidad de los municipios.
+2. (ND) Los Planes Territoriales Especiales fomentarán el establecimiento de sistemas mancomunados de recogida de residuos urbanos y, en particular, de papel, cartón y vidrio, allí donde sea posible.
+3. (ND) El planeamiento de desarrollo deberá prever los espacios y lugares adecuados para la ubicación de los contenedores de residuos, de manera que se asegure su implantación y se facilite la accesibilidad a los usuarios.
+4. (ND) Los municipios de más de 5.000 habitantes establecerán en sus ordenanzas municipales la obligación de que las nuevas edificaciones y urbanizaciones prevean espacios comunes para albergar los diferentes contenedores requeridos para la recogida domiciliaria y los contenedores requeridos para la recogida selectiva.

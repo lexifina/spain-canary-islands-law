@@ -1,0 +1,8 @@
+Directriz 33. Instrumentos organizativos. (ND)
+1. El Gobierno de Canarias, en la regulación del Foro Canario del Desarrollo Sostenible, establecerá una comisión temática destinada al tema turístico, como cauce de participación, debate y seguimiento social del proceso.
+2. La consejería competente en materia de turismo impulsará la actividad del Consejo de Turismo de Canarias, como máximo órgano consultivo sectorial y de participación de los agentes económicos y sociales y las administraciones competentes.
+3. En la elaboración de la planificación estratégica sectorial, del planeamiento y de los programas de actuación, las administraciones públicas asegurarán la presencia permanente de los agentes económicos y sociales, estableciendo mecanismos específicos, tales como mesas sectoriales o foros, tanto de carácter permanente como ocasionales para la formulación de determinados instrumentos.
+4. Como órganos técnicos para el mejor desarrollo y seguimiento de las presentes Directrices:
+a) Se reglamentarán las funciones, competencias y composición del Observatorio del Turismo de Canarias, como órgano de la consejería competente en materia de turismo encargado del conocimiento y seguimiento del sector.
+b) Se reglamentarán las funciones, competencias y composición de la Agencia de Calidad Turística de Canarias, como órgano impulsor de la cualificación y mejora de gestión del sector, en colaboración, especialmente, con las pequeñas y medianas empresas.
+5. En el plazo de seis meses se desarrollará la composición, organización y funcionamiento de los órganos previstos en los números anteriores, que estarán operativos en el plazo de 9 meses.

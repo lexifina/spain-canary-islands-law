@@ -1,0 +1,5 @@
+Directriz 32. Instrumentos de regulación y control (NAD).
+1. La consejería competente en materia de turismo desarrollará la regulación de las nuevas actividades y modalidades de alojamiento y equipamiento, tanto ya emergentes como en previsión de las que surjan como consecuencia del desarrollo de nuevos productos, a fin de facilitar la especialización de la oferta.
+2. La misma consejería impulsará la regularización de la oferta, mediante el perfeccionamiento de la regulación, la eliminación de la oferta ilegal y no reglada, y el establecimiento de un sistema de seguimiento y control eficaz y suficientemente dotado de medios legales, materiales y humanos.
+3. Igualmente, en concertación con el departamento competente en materia de relaciones interadministrativas y con las administraciones locales, desarrollará el Estatuto de los municipios turísticos, con el objetivo y contenidos establecidos en la legislación sectorial.
+4. La regulación señalada en los números anteriores habrá de presentarse en el plazo máximo de nueve meses.

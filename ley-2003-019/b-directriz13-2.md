@@ -1,0 +1,2 @@
+Directriz 13. Ordenación del uso alojativo turístico. (ND)
+En las zonas turísticas, los instrumentos de planeamiento urbanístico establecerán la zonificación con el objetivo de favorecer la máxima diversificación posible de los productos, definiendo para ello la gama alojativa y de equipamiento complementario adecuada a las condiciones y estructura del lugar, a su paisaje natural, a los recursos turísticos, a la imagen del destino y a las características de la demanda a que se oriente el modelo turístico que se pretende implantar.

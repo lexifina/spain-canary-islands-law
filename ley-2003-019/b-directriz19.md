@@ -1,0 +1,4 @@
+Directriz 19. Adquisición de áreas estratégicas. (NAD)
+1. Las administraciones públicas desarrollarán una política de adquisición, con destino al dominio público, de los espacios de mayor valor en biodiversidad o estratégicos para su recuperación, asegurando con ello las máximas garantías de protección de esas zonas.
+2. Las adquisiciones perseguirán incluir en el patrimonio público una completa muestra de todas las especies endémicas de la fauna y flora de Canarias y de cada isla, utilizando para ello la información contenida en el Banco de Datos de Biodiversidad como referente acerca de la distribución de las especies.
+3. Los terrenos de propiedad pública incluirán una muestra que represente a los hábitats naturales mejor conservados de Canarias, que habrá de ser especialmente amplia en el caso de los bosques de laurisilva.

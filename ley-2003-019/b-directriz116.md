@@ -1,0 +1,19 @@
+Directriz 116. Paisaje urbano. (ND)
+1. El planeamiento insular, con el objeto de mejorar el paisaje urbano en la ciudad consolidada, deberá incluir las siguientes determinaciones:
+a) Criterios paisajísticos para los límites entre el suelo rural y urbano, incluyendo indicaciones precisas de ordenación en relación con la articulación del espacio urbano consolidado y los nuevos crecimientos.
+b) Criterios para la delimitación de áreas urbanas que generan un especial impacto paisajístico o ambiental, fijando las condiciones ambientales y funcionales para su reinserción paisajística.
+2. Los planes generales de ordenación, para la mejora cualitativa del paisaje urbano en la ciudad consolidada, habrán de desarrollar los criterios insulares anteriores, y las siguientes determinaciones:
+a) Definición de sistemas de espacios libres y peatonales en continuidad, a partir de los espacios libres existentes, como forma de integrar las cualidades de la geografía al paisaje urbano, aumentar la densidad de las plantaciones vegetales y mejorar las condiciones ambientales urbanas.
+b) Criterios para el desarrollo de planes especiales de mejora ambiental en los barrios de las primeras periferias urbanas de las ciudades metropolitanas, que creen condiciones básicas de urbanidad.
+c) Criterios para la adaptación paisajística, mediante planes especiales, de las urbanizaciones residenciales construidas en zonas de laderas y fuertes pendientes y de los polígonos y zonas industriales degradadas.
+d) Criterios para la puesta en marcha de programas de intervención paisajística que desarrollen proyectos de imagen para la mejora de las condiciones generales del paisaje urbano, que incluyan la creación de hitos y dotación de monumentos artísticos.
+e) Recualificación de los vacíos urbanos, especialmente en los polígonos residenciales, que posibiliten la mejora del paisaje urbano, incrementen la complejidad funcional y faciliten la integración social.
+f) Criterios sobre la calidad edificatoria, y su eventual regulación en las ordenanzas municipales, mediante el fomento de la arquitectura contemporánea de calidad y atenta a su inserción en el entorno.
+g) Normas que favorezcan la integración paisajística de las nuevas edificaciones a las condiciones topográficas y ambientales de su soporte geográfico y eviten la aparición de soluciones urbanísticas y edificatorias de notable impacto visual.
+h) Definición de la longitud máxima admisible a que pueden llegar la seriación de edificios repetidos o que generen fachadas continuas.
+3. Las ordenanzas municipales deberán regular con especial atención:
+a) La estética de las fachadas y revestimientos exteriores a aplicar en los asentamientos rurales y agrícolas, en los centros históricos que no tengan la categoría de bienes de interés cultural, en los accesos a las poblaciones y, en su caso, en los frentes de las principales vías de comunicación.
+b) La tipología a la que deberán ajustarse la señalización, toldos y cartelería de los establecimientos, en especial, en los núcleos de mayor uso turístico o más elevada densidad comercial. Contendrán, igualmente, las condiciones de ocupación del espacio público con expositores y veladores.
+c) Los criterios para los códigos cromáticos a utilizar en función de las características de la arquitectura y de su grado de percepción.
+d) El establecimiento de estándares de calidad ambiental en la eficiencia de los servicios urbanos, especialmente de limpieza, y en la reposición y mantenimiento de materiales deteriorados del espacio público.
+e) La imagen de cubiertas y azoteas, con la implantación efectiva de normas y ordenanzas que ordenen las instalaciones y elementos sobre cubierta y eviten construcciones o instalaciones ilegales, aunque evitando la adopción de soluciones inadecuadas paisajística y energéticamente.

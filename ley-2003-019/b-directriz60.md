@@ -1,0 +1,4 @@
+Directriz 60. Espacios naturales protegidos. (ND)
+1. El Plan Insular de Ordenación, en su calidad de Plan de Ordenación de los Recursos Naturales de la isla, establecerá los criterios y objetivos para la ordenación de los espacios naturales protegidos.
+2. El planeamiento insular y de los espacios naturales protegidos preverá la reserva, para incorporar al patrimonio público de suelo, de los ámbitos más valiosos de dichos espacios que requirieran de una protección y gestión excepcionales.
+3. Para una efectiva gestión de los espacios naturales, el Gobierno de Canarias, en coordinación con los cabildos y con los ayuntamientos afectados, declarará como áreas de gestión integrada en aquellos espacios para los que constituya una figura de gestión adecuada y promoverá la dotación efectiva de programas económicos vinculados a su gestión.

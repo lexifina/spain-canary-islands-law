@@ -1,0 +1,3 @@
+Directriz 24. Instrumentos de seguimiento. (NAD)
+1. Se elaborará periódicamente un Inventario de contaminación atmosférica de la Comunidad Autónoma, que señale las fuentes de emisión más importantes, y especifique los factores de emisión propios de las islas. El Inventario deberá ser promovido por la consejería competente en la materia, con métodos homologados, y estar disponible en un plazo de dos años desde la entrada en vigor de las presentes Directrices.
+2. Se ampliará y modernizará la Red de vigilancia de la calidad atmosférica de las islas, que deberá acometerse en igual plazo que el Inventario, pudiendo beneficiarse de sus conclusiones.

@@ -1,0 +1,7 @@
+CAPÍTULO V
+Recursos forestales
+Directriz 33. Criterios.
+1. (NAD) El Gobierno de Canarias desarrollará el Plan Forestal de Canarias, aprobado con fecha 25 de mayo de 1999, propiciando su conversión en Directriz de Ordenación sectorial para adaptarlo al sistema de planeamiento instituido por el Texto Refundido de las Leyes de Ordenación del Territorio de Canarias y de Espacios Naturales de Canarias. Los programas e intervenciones de las administraciones se sujetarán a las determinaciones del Plan Forestal de Canarias.
+2. (ND) Sobre la base anterior, el planeamiento insular, directamente o mediante su desarrollo a través de un Plan Territorial Especial, establecerá determinaciones específicas sobre forestación y, en su caso, preservación de suelos con tal fin.
+3. (ND) Los instrumentos de planeamiento urbanístico aplicarán criterios extensivos para la clasificación de suelo rústico en la categoría de protección forestal, por su directa implicación en el ciclo hidrológico, debiendo justificar especialmente la delimitación que realicen de dichos suelos.
+4. (NAD) Las administraciones públicas canarias impulsarán las medidas de prevención de incendios, así como las tareas de mantenimiento de aquellas repoblaciones forestales que lo precisen, y las obras y planes de reforestación destinados a facilitar la infiltración de las aguas de lluvia, a impedir la erosión de los suelos, a mejorar el paisaje y a articular sistemas de suelos forestados.

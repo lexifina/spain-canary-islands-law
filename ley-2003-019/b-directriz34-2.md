@@ -1,0 +1,5 @@
+Directriz 34. Instrumentos formativos. (ND)
+1. El Gobierno de Canarias establecerá un programa concertado entre los departamentos de competentes en materia de turismo, empleo y educación, y con las organizaciones sindicales y empresariales, para la formación profesional continua dirigida a los jóvenes de cada isla en las especialidades requeridas por el sector.
+2. La consejería competente en materia de turismo, en colaboración con las universidades canarias y las organizaciones empresariales, desarrollará un programa permanente de formación en gestión empresarial del sector turístico, con una atención especial a los aspectos ambientales de dicha gestión.
+3. Las instituciones públicas realizarán un continuo seguimiento de las demandas formativas, con objeto de anticipar el adiestramiento y formación de la población canaria en los nuevos requerimientos ocupacionales que se precisen.
+4. Los programas señalados en los dos primeros números, deberán ser puestos en marcha en el plazo máximo de un año.

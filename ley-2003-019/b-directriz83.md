@@ -1,0 +1,4 @@
+Directriz 83. Planificación. (ND)
+1. Los principios, criterios y estrategias en materia de transporte deberán reflejarse en unas Directrices de Ordenación de Infraestructuras a nivel autonómico, conforme con las orientaciones contenidas en las presentes Directrices y que tomarán como base el Plan Director de Infraestructuras de Canarias.
+2. La planificación de los servicios de transportes terrestres de cada isla tomará la forma de un Plan Territorial Especial, conforme y de acuerdo con la Directriz de Ordenación sectorial correspondiente y con las determinaciones del Plan Insular de Ordenación, debiendo prestar una atención especial a las acciones propias del transporte colectivo de bienes y personas.
+3. El Plan Territorial Especial de Transporte de cada isla determinará los itinerarios previstos para las nuevas infraestructuras de transporte terrestre, así como la ubicación y compatibilidad de los distintos modos de transporte, dentro de cada corredor.

@@ -1,0 +1,5 @@
+Directriz 89. Ordenación general.
+1. (NAD) El desarrollo de las infraestructuras portuarias y las actuaciones de mejora que se lleven a cabo incorporarán las medidas correctoras necesarias para evitar efectos negativos sobre el medio y, en especial, sobre la dinámica litoral en el área de influencia de la obra portuaria, minimizando su impacto ambiental.
+2. (ND) Los Planes de Utilización que se redacten para cada puerto favorecerán la integración ambiental y funcional entre las zonas portuarias y los núcleos urbanos contiguos.
+3. (NAD) Las propuestas para la ampliación de las instalaciones portuarias deberán justificar, de forma razonada, que las demandas que las suscitan no pueden ser satisfechas en los espacios ya disponibles o previstos en los Planes de Utilización, para los diferentes usos propios de las mismas.
+4. (ND) Los proyectos portuarios prestarán una atención especial a que su diseño realce el interés paisajístico de las instalaciones, compatibilizándolo con las condiciones de seguridad que requiere la función primordial de los puertos.

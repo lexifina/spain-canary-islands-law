@@ -1,0 +1,7 @@
+Directriz 49. Formulación, aprobación y vigencia del planeamiento.
+1. (ND) Las administraciones públicas de Canarias implantarán el modelo territorial señalado mediante la formulación de los diversos instrumentos de planeamiento, la definición de programas de apoyo económico complementarios a los mismos, el desarrollo de Instrucciones y Normas Técnicas, la producción de la cartografía y de las bases de datos necesarias y la formación de su personal.
+2. (ND) En el marco de esas tareas, las administraciones públicas canarias, deberán:
+a) Justificar el interés general y la conveniencia y oportunidad de las actuaciones que desarrollen los instrumentos de ordenación.
+b) Prestar especial atención a la clasificación de suelo rústico en las periferias urbanas y a la conservación de los suelos rústicos de protección económica, con valores existentes o potenciales.
+3. (NAD) Las administraciones urbanísticas facilitarán la mejor difusión de las decisiones que adopten en materia de planeamiento y de las razones y criterios que justifican su adopción. En particular, la Comisión de Ordenación del Territorio y Medio Ambiente de Canarias elaborará y difundirá la justificación y la valoración del interés general y los efectos ambientales y territoriales de sus acuerdos de aprobación e informe del planeamiento.
+4. (NAD) Las administraciones públicas canarias comprobarán sistemáticamente la vigencia del planeamiento y el cumplimiento de los requisitos establecidos legalmente, atendiendo en particular a la publicación íntegra de la normativa urbanística.

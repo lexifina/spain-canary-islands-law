@@ -1,0 +1,13 @@
+Directriz 136. Grandes equipamientos comerciales y de ocio. (ND)
+1. El Plan Insular de Ordenación establecerá las condiciones de implantación de los equipamientos comerciales y de ocio con incidencia territorial amplia, determinando su localización directamente, a través de Planes Territoriales Especiales o, en su caso, del planeamiento general.
+2. El planeamiento habrá de garantizar la adecuada localización de los grandes establecimientos comerciales y de ocio en relación con las características del equipamiento comercial en su zona de influencia, así como las previsiones de ocupación de suelo y cualesquiera otros relacionados con el urbanismo comercial en general.
+3. El planeamiento ordenará los grandes equipamientos comerciales y de ocio de acuerdo con los siguientes criterios:
+a) La implantación estará, expresa y específicamente, contemplada y localizada en un instrumento de planeamiento, no siendo válida su sustentación en una clasificación genérica con destino a uso comercial o de servicio.
+b) Tendrán la consideración de equipamientos estructurantes del territorio, no pudiendo en ningún caso desarrollarse en suelo rústico.
+c) El planeamiento general habrá de localizar dichos establecimientos, analizando y justificando:
+1) Definición del ámbito de análisis de las afecciones sobre la estructura territorial.
+2) Ausencia de impactos negativos significativos de la implantación sobre el medio natural, alternativas y medidas correctoras.
+3) Compatibilidad de la implantación pretendida con las estrategias territoriales y urbanas definidas en el planeamiento insular y municipal, en especial con relación a posibles estrategias de renovación urbana en general y rehabilitación de centros tradicionales o históricos en particular.
+4) Impacto sobre el sistema viario afectado y efecto de los nuevos flujos, previsión de soluciones de conexión y accesos, incluyendo los compromisos a asumir por los promotores en orden a ejecutar las infraestructuras de conexión, acceso y aparcamiento a su costa y terminarlas antes de la puesta en funcionamiento del centro.
+5) Impacto sobre las infraestructuras afectadas, como la de eliminación de residuos urbanos, u otras.
+d) Las ordenación pormenorizada de la implantación se realizará mediante un Plan Especial de Ordenación, que abordará el centro comercial en forma integral, estableciendo determinaciones, tanto a nivel funcional como formal, sobre la edificación, los espacios y las infraestructuras anejas. El plan analizará las medidas correctoras previstas para minimizar los impactos negativos que puedan producirse, la integración visual y paisajística diurna y nocturna del conjunto en el entorno y la integración en la estructura territorial o urbana en que se implante.

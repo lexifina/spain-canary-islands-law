@@ -1,0 +1,8 @@
+Directriz 30. Calidad de las aguas.
+1. (ND) Las Directrices de Ordenación de la Calidad Ambiental determinarán, en el marco de la legislación sectorial aplicable y de la planificación hidrológica, los sistemas de seguimiento, control e información de calidad de las aguas a establecer en el archipiélago.
+2. (NAD) Cuando las aguas se destinen al consumo humano, los requisitos de calidad se ajustarán a lo determinado en la Directiva y restante normativa aplicable.
+3. (ND) Los Consejos Insulares implantarán los sistemas de seguimiento, control e información de calidad de las aguas de la isla, en conformidad con las disposiciones que sobre este tema establezcan las Directrices de Ordenación de la Calidad Ambiental.
+4. (ND) Los Planes Hidrológicos Insulares determinarán los límites de calidad que deberán mantener las aguas extraídas en pozos y galerías. Los Consejos Insulares asegurarán el cumplimiento de esos requerimientos.
+5. (NAD) Los Consejos Insulares llevarán a cabo las intervenciones necesarias para erradicar los vertidos al dominio público hidráulico de aguas sin depurar y para asegurar que los vertidos autorizados mantienen las condiciones que permitieron dicha autorización.
+6. (ND) Los Planes Hidrológicos señalarán las zonas sensibles donde la actividad agraria y ganadera extremará sus cautelas para minimizar sus aportaciones de nutrientes a los acuíferos.
+7. (ND) Las Directrices de Ordenación del Suelo Agrario, en consonancia con las determinaciones de estas Directrices, establecerán las condiciones que han de dirigir las intervenciones de las administraciones agrarias en las zonas sensibles, y fijarán los criterios de los Códigos de Buenas Prácticas Agrícolas que han de adoptar las explotaciones de las mismas.

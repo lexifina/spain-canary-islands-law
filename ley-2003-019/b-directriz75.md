@@ -1,0 +1,4 @@
+Directriz 75. Fomento de la utilización del suelo urbano.
+1. (NAD) Las administraciones urbanísticas delimitarán las áreas en las que los terrenos queden sujetos al régimen de ejecución de la edificación mediante sustitución, especialmente en las zonas industriales y residenciales con mayor presencia de solares sin edificar y menor eficiencia en el uso del suelo. Igualmente, promoverán actuaciones demostrativas en concertación con otras administraciones públicas, en su caso, y con el posible apoyo de empresas privadas o públicas.
+2. (R) En los polígonos industriales, tecnológicos o terciarios de propiedad pública se evitará la enajenación de los solares, utilizando fórmulas concesionarias ligadas a un efectivo y eficaz uso del suelo.
+3. (R) Los poderes públicos arbitrarán medidas económicas o fiscales, en el ámbito de sus competencias, para incentivar la puesta en uso de las viviendas desocupadas.

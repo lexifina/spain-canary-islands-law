@@ -1,0 +1,7 @@
+CAPÍTULO VI
+Transporte colectivo
+Directriz 99. Principios. (NAD)
+1. La ordenación sostenible del territorio canario requiere disponer de sistemas de transporte público competitivos y eficaces, siendo de interés prioritario su implantación o mejora, tanto a nivel intermunicipal como en el interior de los propios espacios urbanos.
+2. Los sistemas de transporte público terrestre a implantar o mejorar tendrán como objetivo satisfacer al menos a igual número de movimientos que los realizados mediante el vehículo privado.
+3. La implantación de nuevos sistemas de transporte terrestre deberá dirigirse, en especial, a solventar las demandas de movilidad de los flujos entre las ciudades y los centros de actividad económica, en particular los núcleos turísticos, así como a facilitar el acceso de las poblaciones urbanas a los principales nodos de atracción y a ofrecer sistemas colectivos de transporte a los núcleos de menor densidad.
+4. El sistema de transporte público terrestre constituirá el principal articulador de la movilidad terrestre en cada isla e integrará las redes intermunicipales y urbanas de guaguas y los sistemas ferroviarios, en su caso, con los aparcamientos disuasorios, las estaciones de taxis y las instalaciones intermodales, facilitando su debida articulación, entre sí y con los polos de acceso desde el exterior con cada isla, y dotándolos con un sistema tarifario que fomente tal articulación.

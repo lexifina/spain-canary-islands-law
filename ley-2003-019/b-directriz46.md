@@ -1,0 +1,4 @@
+Directriz 46. Criterios para la gestión de lodos de depuradoras de aguas residuales. (ND)
+1. Las Directrices de Ordenación de Residuos establecerán las determinaciones que aseguren el adecuado tratamiento de los lodos producidos en las depuradoras de aguas residuales.
+2. El destino final de los lodos se orientará hacia la obtención de compost y su reutilización en la mejora de los suelos, así como su valorización energética. Los lodos procedentes de áreas industriales deberán ser analizados antes de su eventual utilización para la obtención de compost.
+3. El programa de I+D de Canarias relacionado con los residuos integrará, de forma especial, el estudio e investigación para la producción y aplicación del compost procedente de lodos de depuración de aguas residuales en suelos forestales y agrícolas, en operaciones de acondicionamiento paisajístico y en la jardinería pública.

@@ -1,0 +1,5 @@
+Directriz 29. Sistema de seguimiento. (NAD)
+1. Para el seguimiento de las presentes Directrices, su eventual revisión o modificación, y la determinación periódica de la capacidad de crecimiento de las diferentes islas y la modalidad y tipo de establecimientos alojativos que deben permitirse en cada una de ellas, será precisa la elaboración, por la consejería competente en materia de turismo, en concierto con los cabildos insulares, de un sistema de indicadores, de carácter ambiental, social y económico.
+2. El sistema de seguimiento prestará una especial atención a la elaboración multidisciplinar de indicadores para la evaluación objetiva de la capacidad de carga.
+3. La elaboración y mantenimiento de la cuenta satélite del turismo se considera un instrumento de extraordinaria importancia para el conocimiento y planificación del sector, por lo que constituirá un objetivo básico y determinará en parte la estructura del sistema de información.
+4. En el plazo de seis meses se iniciará la elaboración del sistema, que deberá estar disponible en el plazo de un año.
