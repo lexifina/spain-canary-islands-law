@@ -1,0 +1,3 @@
+Artículo único.
+El Gobierno de Canarias integrará en su planificación sanitaria, promoverá y construirá un complejo hospitalario y sociosanitario que combine la asignación de recursos hospitalarios para la atención de media y larga estancia y de personas mayores necesitadas de cuidados continuados con la asignación de recursos asistenciales propios de la Atención Primaria y Especializada Ambulatoria para la atención de la población de las comarcas sur y suroeste de la isla de Tenerife.
+Así mismo, garantizará la existencia de un número suficiente, para atender la población de las citadas comarcas sur y suroeste, de camas hospitalarias de segundo nivel para procesos agudos, en centros públicos o concertados integrados en la red hospitalaria de utilización pública.
