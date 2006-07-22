@@ -1,0 +1,4 @@
+Disposición adicional decimocuarta.
+En orden a dar cumplimiento a las previsiones del Plan General de Ordenación Municipal de Las Palmas de Gran Canaria, se autoriza, por concurrir razones de interés público, social y de interés general, y de conformidad con lo previsto en el artículo 39.4 de la presente Ley, y siempre que medie una previa solicitud de los interesados la descalificación, de las viviendas de promoción pública del grupo de 157 viviendas Mirador del Valle sitas en Jinámar. Las Palmas de Gran Canaria.
+La efectiva extinción del régimen legal de protección quedará condicionada, en todo caso, a la materialización de dicho Plan General y a la permuta posterior de esas viviendas por sus actuales adjudicatarios por otras que también tengan carácter de protegidas.
+Se añade por la disposición adicional 8.2 de la Ley 6/2006, de 17 de julio. Ref. BOE-A-2006-14968#daoctava.
