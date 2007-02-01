@@ -1,0 +1,4 @@
+Artículo único.
+1. Se declara reserva natural especial la totalidad del Malpaís de Güímar, desde su límite con el Puertito de Güímar hasta el Camino de El Socorro en su tramo colindante con el malpaís, en el término municipal de Güímar, pasando a denominarse reserva natural especial Malpaís de Güímar.
+2. El régimen jurídico que conlleva esta declaración se aplicará al ámbito territorial que se determina en la delimitación cartográfica que se incluye como anexo a la presente Ley, modificado por el lado sur para adaptarlo al Plan Parcial del Puertito de Güímar.
+3. Dicho régimen jurídico especial será el que establece para los espacios naturales el Decreto Legislativo 1/2000, de 8 de mayo, por el que se aprueba el Texto Refundido de las Leyes de Ordenación del Territorio y de Espacios Naturales de Canarias.
