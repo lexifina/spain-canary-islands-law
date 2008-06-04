@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias contenidas en esta ley a "empleo de comisario-jefe" se entenderán realizadas a "empleo de comisario principal", según establece la disposición final 4 de la Ley 2/2008, de 28 de mayo. Ref. BOE-A-2008-12494
