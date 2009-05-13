@@ -1,6 +1,6 @@
 Directriz 19. Renovación edificatoria de establecimientos alojativos. (NAD)
 1. Las actuaciones de renovación de la planta alojativa existente, sin incremento de capacidad, no estarán sujetas a límite alguno de cantidad o ritmo, aplicándose los siguientes criterios:
-a) En el proceso de renovación mediante la rehabilitación o sustitución de los establecimientos existentes, se deberá conservar el uso turístico y se podrá mantener la capacidad alojativa turística previa.
+a) En el proceso de renovación mediante la rehabilitación o sustitución de los establecimientos existentes, si se opta por el mantenimiento del uso turístico, se podrá también mantener la capacidad alojativa previa.
 b) En función de las determinaciones del planeamiento, el mantenimiento de la capacidad alojativa preexistente se ajustará a las siguientes condiciones:
 1) Cuando el planeamiento vigente permita aumentar la edificabilidad total, podrá incrementarse si así conviene para elevar la calidad del nuevo establecimiento, sin que requiera la previsión de mayores espacios libres, al no incrementarse el número de plazas alojativas.
 2) Cuando la ordenación urbanística no permita el incremento de la edificabilidad total en el mismo emplazamiento original, o establezca la necesidad de disminuir la densidad alojativa de un área, podrá trasladarse toda o parte de la capacidad alojativa previa a una nueva localización, en suelos urbanos o urbanizables ya urbanizados en los que el planeamiento permita acoger la edificación, dentro de la misma isla y con las limitaciones y condiciones que establezca el planeamiento insular.
@@ -16,3 +16,4 @@ a) La aprobación de la modificación del planeamiento general o de desarrollo q
 b) Las viviendas susceptibles de ser construidas por compatibilización o sustitución no podrán tener una superficie inferior a 100 metros cuadrados útiles.
 c) No será preciso prever el incremento de los espacios libres cuando no aumente la densidad, o sea, no se construya más de una vivienda por cada 3 plazas alojativas suprimidas.
 d) Cuando el solar resultante de la sustitución se destine a la construcción de viviendas protegidas, podrán construirse en el nuevo emplazamiento 1,2 plazas alojativas turísticas por cada plaza suprimida, siendo de aplicación lo dispuesto en la letra d) del número anterior.
+Se modifica el apartado 1.a) por el art. 25 de la Ley 6/2009, de 6 de mayo. Ref. BOE-A-2009-9047#a25.
