@@ -1,0 +1,7 @@
+Disposición adicional decimotercera.
+1. A los efectos de la aplicación del régimen transitorio de la Ley de Costas, se considerarán áreas urbanas, con independencia de la existencia o no de instrumento de ordenación sobre las mismas y de la clase y categoría de suelo que en su caso se estableciera, las que, a 29 de julio de 1988, se encontraran en alguno de los siguientes supuestos:
+a) Las que comprendan terrenos que cuenten con acceso rodado, abastecimiento de agua, evacuación de aguas y suministro de energía eléctrica.
+b) Las que comprendan terrenos consolidados por la edificación al menos en dos terceras partes de su superficie, si el municipio en el que se ubicara tuviera en esa fecha planeamiento general en vigor.
+c) Las que comprendan terrenos consolidados por la edificación al menos en la mitad de su superficie, si el municipio en el que se ubicara el asentamiento no tuviera en esa fecha planeamiento general en vigor.
+2. Dicha declaración se efectuará por el órgano autonómico que se determine reglamentariamente, a iniciativa del Cabildo o del Ayuntamiento competente, que aportará los medios de prueba que sirvan de motivación al correspondiente acto.
+Se añade por el art. 1 de la Ley 7/2009, de 6 de mayo. Ref. BOE-A-2009-9048.
