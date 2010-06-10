@@ -1,0 +1,1 @@
+Téngase en cuenta que el Catálogo Canario de Especies Protegidas contenido en los los Anexos de esta norma podrá ser modificado, incluyendo la catalogación de nuevas especies, descatalogación y el cambio de categoría, por decreto del Gobierno de Canarias a propuesta de la Consejería competente, según se establece en el art. 4.
