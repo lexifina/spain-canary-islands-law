@@ -1,0 +1,2 @@
+Disposición adicional única. Remisión telemática de información.
+La información que las Cajas de Ahorros que operan en Canarias deberán enviar a la consejería competente en materia de economía y hacienda, de conformidad con los preceptos contenidos en esta ley, será remitida por vía telemática cuando así se establezca en las medidas y disposiciones reglamentarias que se dicten para el desarrollo y ejecución de la presente Ley.
