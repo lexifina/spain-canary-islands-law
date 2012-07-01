@@ -1,0 +1,11 @@
+Artículo 24 bis. Disposiciones comunes a las reducciones establecidas en la presente sección.
+1. Las reducciones establecidas en los artículos 21, 22, 22 bis, 22 ter, 23, 23 bis y 24 del presente texto refundido serán de aplicación tanto en caso de adquisición de la plena propiedad o de la nuda propiedad como en caso de adquisición de cualquier otro derecho sobre los bienes o derechos afectados.
+2. Los porcentajes de reducción establecidos por los citados artículos se aplicarán sobre el importe resultante de haber deducido del valor de los bienes o derechos que son objeto de la reducción el importe de las cargas y gravámenes que establece el artículo 12 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
+3. Las reducciones a las que se refieren los citados artículos, si los bienes o derechos que son objeto de la reducción han formado parte de la sociedad de gananciales regulada en el artículo 1.344 del Código civil o de otros regímenes económicos matrimoniales análogos, y con independencia de las adjudicaciones concretas que resulten de la liquidación del régimen económico matrimonial, sólo pueden afectar a la mitad del valor de cada bien o derecho adquirido, o a la parte que corresponda en razón de la participación del causante en la comunidad matrimonial.
+4. En el caso de no cumplirse el requisito de permanencia al que se refieren los artículos 22, 22 bis, 22 ter, 23 y 23 bis del presente texto refundido, deberá pagarse la parte del impuesto que se hubiese dejado de ingresar como consecuencia de la reducción practicada y los intereses de demora.
+5. A los efectos de las reducciones establecidas en la presente Sección, se establecen las equiparaciones siguientes:
+a) Las personas sujetas a un acogimiento familiar permanente o preadoptivo se equipararán a los adoptados.
+b) Las personas que realicen un acogimiento familiar permanente o preadoptivo se equipararán a los adoptantes.
+Se entiende por acogimiento familiar permanente o preadoptivo el constituido con arreglo a la legislación aplicable.
+Estas equiparaciones regirán también respecto de la aplicación de los coeficientes multiplicadores a que se refiere el artículo 22 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
+Se añade por el art. 46 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282.

@@ -1,0 +1,1 @@
+Téngase en cuenta que, desde el 1 de julio de 2012, esta norma pasa a denominarse "Ley 4/1986, de 26 de junio, de Entidades Canarias en el Exterior", por el art. 2.1 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282

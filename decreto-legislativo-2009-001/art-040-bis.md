@@ -1,0 +1,14 @@
+Artículo 40 bis. Tributación de la modalidad de juego relativa al bingo y bingo electrónico.
+1. La base imponible del juego del bingo tradicional estará constituida por el importe del valor facial de los cartones adquiridos; en el caso del juego del bingo en su modalidad electrónica, la base imponible estará constituida por la diferencia entre el importe total de los ingresos obtenidos procedentes del juego de esta modalidad y las cantidades satisfechas a los jugadores por premios.
+2. El tipo de gravamen aplicable al juego del bingo en la modalidad tradicional será el 20 por ciento; no obstante, en el caso de salas de bingo que mantengan su plantilla media en el ejercicio respecto a la del ejercicio anterior podrán acogerse a la siguiente escala:
+Suma acumulada de los valores faciales de los cartones adquiridos por sala | Tipo aplicable
+De 0 a 3.500.000,00 euros | 16%
+Más de 3.500.000,00 euros | 20%
+A estos efectos, para el cálculo de la plantilla media de la entidad se tomarán las personas empleadas, en los términos que disponga la legislación laboral, teniendo en cuenta la jornada contratada en relación con la jornada completa. A estos efectos los obligados tributarios deberán acreditar, dentro del primer trimestre del ejercicio siguiente a su aplicación que se ha cumplido el requisito de mantenimiento del empleo.
+En caso de que, con posterioridad a la aplicación del tipo reducido, no se mantuviera la plantilla media en la sala o se produzca el cese de la actividad en la misma, se procederá a la liquidación y pago de las cantidades no ingresadas de acuerdo el tipo ordinario establecido en el punto a anterior, junto con los correspondientes intereses de demora en el siguiente periodo de pago o, en su caso, dentro de los treinta días siguientes al cese.
+Para la aplicación de esta escala será necesario que, previamente, el sujeto pasivo se comprometa al mantenimiento del empleo en los términos referidos, y al reintegro, en su caso, de las cantidades referidas en el párrafo anterior.
+El tipo de gravamen aplicable al juego del bingo en la modalidad electrónica será el 30 por ciento.
+3. El ingreso de la cuota correspondiente se realizará, en la modalidad del juego del bingo tradicional, y en defecto de regulación reglamentaria, mediante autoliquidación en el momento de la adquisición de los cartones.
+En la modalidad de bingo electrónico, el ingreso de la cuota se efectuará dentro de los veinte primeros días del mes siguiente al que corresponda el devengo.
+Se añade por el art. 49 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282.
+Redactado conforme a la corrección de errores publicada en BOC núm. 139, de 17 de julio de 2012.
