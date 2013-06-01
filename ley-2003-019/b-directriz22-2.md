@@ -14,4 +14,4 @@ k) Modos específicos de urbanización y edificación en lugares con pendientes 
 l) Eliminación de deterioros singulares, con especial atención a los del borde costero y de las formaciones orográficas y relieves característicos.
 m) Definición de acciones relativas a los bordes y entorno de los núcleos y áreas de intervención, para restituir el equilibrio con la naturaleza y el paisaje exterior, cualificar las fachadas, perfiles y horizontes de los núcleos, y compensar sus déficits de espacios libres y equipamiento.
 n) Jerarquización de lugares centrales e hitos de referencia en la estructuración de los núcleos.
-2. La ordenación pormenorizada será establecida por el Plan General de Ordenación o por el Plan Especial de Ordenación al que remita para su desarrollo. Esta remisión será obligada cuando el Plan General no contenga el documento de estrategia a que se refiere la Directriz precedente.
+Se deroga el apartado 2 por la disposición derogatoria única.2 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#dd.

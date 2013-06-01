@@ -7,3 +7,5 @@ c) Las instalaciones deberán cuidar con especial esmero su concreta situación 
 3. (NAD) Las actuaciones de establecimientos turísticos vinculados a un campo de golf como equipamiento complementario que se desarrollen en suelo rústico, deberán cumplir las siguientes condiciones:
 a) El campo deberá tener dieciocho hoyos y par setenta, como mínimo.
 b) El establecimiento alojativo turístico vinculado deberá pertenecer a la modalidad hotelera con una capacidad máxima de doscientas plazas alojativas.
+Téngase en cuenta que se deroga el apartado 3.b) respecto a las islas de El Hierro, La Gomera y La Palma por la disposición derogatoria única.2 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#dd.
+Se deroga el apartado 3.b) respecto a las islas de El Hierro, La Gomera y La Palma por la disposición derogatoria única.2 de la Ley 2/2013, de 29 de mayo. Ref. BOE-A-2013-6584#dd.
