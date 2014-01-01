@@ -9,5 +9,6 @@ Los trienios que se hubieran perfeccionado con anterioridad a la entrada en vigo
 El curso deberá superarse en el plazo de cinco años desde la entrada en vigor de esta ley.
 La obtención del diploma dará derecho a la dispensa de un grado en el requisito de titulación para el acceso al empleo inmediatamente superior, derecho que sólo podrá ejercitarse en alguna de las tres primeras convocatorias de promoción interna que se realicen para el Cuerpo de Policía Local al que pertenecen.
 Véase, en cuanto al apartado 5, la Sentencia 33/2013, de 11 de febrero. Ref. BOE-A-2013-2716
+Se suspende, durante el año 2014, la compensación financiera del Gobierno de Canarias prevista en el apartado 4, último inciso del párrafo tercero, según establece la disposición adicional 24 de la Ley 6/2013, de 27 de diciembre. Ref. BOE-A-2014-1291
 Se suspende, durante el año 2013, la compensación financiera del Gobierno de Canarias prevista en el apartado 4, último inciso del párrafo tercero, según establece la disposición adicional 30 de la Ley 10/2012, de 29 de diciembre. Ref. BOE-A-2013-795
 Se modifica el apartado 5 por la disposición adicional 2 de la Ley 9/2009, de 16 de julio. Ref. BOE-A-2009-12756
