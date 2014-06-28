@@ -1,0 +1,4 @@
+Disposición transitoria única. Asociación Canaria de Educación Social y Asociación Profesional de Educadores Sociales de Canarias.
+1. La Asociación Canaria de Educación Social y la Asociación Profesional de Educadores Sociales de Canarias, actuando como comisión gestora, en el plazo de seis meses desde la entrada en vigor de la presente ley, aprobará unos estatutos provisionales que regularán la condición de colegiado mediante la cual se podrá participar en la asamblea constituyente del colegio, así como el procedimiento de convocatoria y desarrollo de dicha asamblea.
+La convocatoria se publicará con una antelación mínima de quince días en el Boletín Oficial de Canarias y en los diarios de mayor difusión de las provincias de Las Palmas y de Santa Cruz de Tenerife.
+2. La asamblea constituyente deberá elaborar los estatutos definitivos del colegio y elegir a los miembros de los órganos de gobierno.
