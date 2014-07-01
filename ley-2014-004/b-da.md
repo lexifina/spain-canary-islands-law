@@ -1,0 +1,2 @@
+Disposiciones adicional primera. Referencias normativas.
+Las referencias que en la normativa vigente se puedan efectuar al anexo IV; a los números 2, 3, 4 y 5 del artículo 70; al anexo V y al artículo 83 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico y Fiscal de Canarias, se entenderán realizadas, a partir del día 1 de julio de 2014, al anexo I; al artículo 2; al anexo II y al artículo 3 de la presente ley, respectivamente.
