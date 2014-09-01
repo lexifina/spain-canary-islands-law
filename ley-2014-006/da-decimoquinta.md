@@ -1,0 +1,3 @@
+Disposición adicional decimoquinta. Fondo de compensación.
+1. Los Presupuestos Generales de la Comunidad Autónoma de Canarias de cada año recogerán los créditos que hayan de integrarse en un fondo de compensación que posibilite la mejor distribución de los recursos de la escuela pública canaria y que tendrán como destinatarias a las zonas educativas más desfavorecidas.
+2. Los créditos que, de este fondo de compensación, resulten excedentarios al final de un ejercicio presupuestario se incorporarán a los créditos del fondo correspondiente al ejercicio siguiente, en los términos que establezca la Ley de Presupuestos Generales para el ejercicio de que se trate.

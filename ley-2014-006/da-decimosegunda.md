@@ -1,0 +1,2 @@
+Disposición adicional decimosegunda. Ciudades educadoras.
+El Gobierno de Canarias y las administraciones locales del archipiélago desarrollarán acuerdos de colaboración que faciliten la constitución de ciudades educadoras en Canarias, así como el adecuado funcionamiento de las que ya han sido instituidas para que tanto unas como otras colaboren en la consecución de los objetivos fijados en la presente ley.
