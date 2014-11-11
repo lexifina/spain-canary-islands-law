@@ -1,0 +1,2 @@
+Disposición final decimotercera. Suspensión de la aplicación del Impuesto de la Comunidad Autónoma de Canarias sobre el Impacto Medioambiental Causado por Determinadas Actividades.
+Desde el 1 de enero de 2014 se suspende la aplicación del Impuesto de la Comunidad Autónoma de Canarias sobre el Impacto Medioambiental Causado por Determinadas Actividades contenidos en el capítulo III, del título I, libro II, artículos 39 y 40 de la Ley 4/2012, de 25 de junio, de Medidas Administrativas y Fiscales.

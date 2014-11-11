@@ -1,0 +1,7 @@
+Disposición final decimoséptima. Entrada en vigor.
+1. La presente ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Canarias».
+2. No obstante lo previsto en el apartado anterior, las siguientes modificaciones entrarán en vigor el 1 de enero de 2015:
+a) Las previstas en el artículo 1 de esta ley relativas a la Ley 1/2011, de 21 de enero, del Impuesto sobre las Labores del Tabaco y otras Medidas Tributarias; las previstas en el artículo 2 de esta ley relativas a la Ley 5/1986, de 28 de julio, del Impuesto Especial de la Comunidad Autónoma de Canarias sobre combustibles derivados del petróleo; las previstas en el artículo 3 de esta ley relativas a la Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales; y las previstas en los apartados siete, ocho y nueve del artículo 4 de esta ley, relativas al Texto Refundido de las disposiciones legales vigentes dictadas por la Comunidad Autónoma de Canarias en materia de tributos cedidos, aprobado por Decreto Legislativo 1/2009, de 21 de abril.
+b) Las relativas a las tasas académicas en escuelas oficiales de idiomas recogida en el artículo 5, apartado seis de la presente ley.
+c) Las previstas en el apartado Dos del artículo 8 en lo que se refiere a lo previsto en el apartado f) del artículo 36.1 de la Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria.»
+Redactado el apartado 2.a) conforme a la corrección de errores publicada en el BOC núm. 244, de 17 de diciembre de 2014. Ref. BOE-A-2015-187
