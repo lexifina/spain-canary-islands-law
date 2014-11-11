@@ -1,0 +1,9 @@
+CAPÍTULO V
+Central de información
+Se añade por el art. 8.11 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.
+Artículo 100 sexies. Central de información.
+1. La consejería competente en materia de hacienda mantendrá una central de información de riesgos de las entidades del sector público autonómico a que se refiere el artículo 2 de esta ley, así como de las universidades públicas con sede en la Comunidad Autónoma de Canarias y de las empresas, fundaciones u otras personas jurídicas vinculadas o dependientes de las mismas que se clasifiquen como administraciones públicas, con arreglo a las normas del sistema europeo de cuentas nacionales y regionales (SEC).
+2. La central de información de riesgos contendrá información de las operaciones de préstamo, crédito y emisiones de deuda pública en todas sus modalidades, los avales y garantías prestados en cualquier clase de crédito, las operaciones de arrendamiento financiero, así como cualesquiera otras que afecten a la posición financiera futura de la entidad. La información comprenderá todas las operaciones, con independencia de su plazo.
+3. A estos efectos, la consejería competente en materia de hacienda podrá requerir al Banco de España, y a los bancos, cajas de ahorro y demás entidades financieras la obtención de datos concretos relativos al endeudamiento de las entidades a las que se refiere este artículo, en la forma que se determine por orden del consejero.
+4. Las entidades a las que se refiere el apartado 1 de este artículo remitirán con periodicidad mensual a la dirección general competente en materia de endeudamiento la información a la que hace referencia el apartado 2 anterior, y los datos relativos a posiciones deudoras estarán referidos al último día de cada mes.
+Se añade por el art. 8.11 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.

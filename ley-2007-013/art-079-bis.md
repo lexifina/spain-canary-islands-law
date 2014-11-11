@@ -1,0 +1,7 @@
+Sección 9.ª Arrendamiento de vehículos con conductor
+Se añade por el art. 14.4 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.
+Artículo 79 bis. Definición y requisitos generales.
+1. El arrendamiento de vehículos con conductor constituye una modalidad de transporte público discrecional de viajeros, y su ejercicio está condicionado a la obtención de la correspondiente autorización.
+2. Para la realización del arrendamiento de vehículos con conductor, es necesario cumplir los requisitos que, para el transporte público de viajeros, se establecen en la presente norma, y los que, con carácter específico, se establecen para este tipo de transporte reglamentariamente.
+3. Su regulación determinará las condiciones relativas al desarrollo de dicha modalidad, el número mínimo, antigüedad y características de los vehículos, la obligación de disponer de locales garajes y oficinas, la capacidad mínima de los garajes en proporción con el número de vehículos disponibles, y las demás que resulten precisas para asegurar la calidad del servicio ofertado. En todo caso dicha regulación debe basarse en requisitos que permitan su diferenciación con respecto al servicio de taxis, en particular, en cuanto a su dimensión empresarial, con oficina abierta al público y las características de los vehículos que respondan a un servicio de alta calidad.
+Se añade por el art. 14.4 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.

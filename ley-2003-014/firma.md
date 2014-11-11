@@ -26,11 +26,13 @@ Puerto de la Cruz. | Tenerife. | Puerto de la Cruz.
 Las Galletas. | Tenerife. | San Miguel.
 Grupo II: Puertos deportivos
 Nombre | Isla | Municipio
-El Castillo/Caleta Fuste. | Fuerteventura. | Antigua.
-Mogán | Gran Canaria. | Mogán.
+El Castillo/Caleta de Fuste. | Fuerteventura. | Antigua.
+Mogán. | Gran Canaria. | Mogán.
+Puerto Rico. | Gran Canaria. | Mogán.
 Pasito Blanco. | Gran Canaria. | San Bartolomé de Tirajana.
 Taliarte. | Gran Canaria. | Telde.
-Puerto Calero. | Gran Canaria. | Yaiza.
+Puerto Calero. | Lanzarote. | Yaiza.
+Marina del Rubicón. | Lanzarote. | Yaiza.
 Puerto Colón. | Tenerife. | Adeje.
 La Galera. | Tenerife. | Candelaria.
 Radazul. | Tenerife. | El Rosario.
@@ -52,3 +54,4 @@ El Médano. | Tenerife. | Granadilla.
 Los Abrigos. | Tenerife. | Granadilla.
 El Puertito de Güimar. | Tenerife. | Güimar.
 San Marcos. | Tenerife. | Icod de los Vinos.
+Se modifica el Grupo II por el art. 13.14 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
