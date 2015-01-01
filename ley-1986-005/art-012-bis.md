@@ -1,5 +1,5 @@
 Artículo 12 bis. Devoluciones a agricultores y transportistas.
-1. Los agricultores y transportistas tendrán derecho a la devolución parcial del Impuesto que grava el gasóleo profesional utilizado en su actividad económica.
+1. Los agricultores y transportistas tendrán derecho a la devolución parcial del impuesto que grava el gasóleo profesional utilizado en maquinaria, artefactos y vehículos afectos al desarrollo de la actividad de agricultura y transporte.
 2. El tipo de la devolución, expresado en euros por 1.000 litros, estará constituido por la diferencia positiva entre el tipo impositivo de la Tarifa Segunda del Impuesto y el tipo aplicable al gasóleo profesional, ambos vigentes en el momento de generarse el derecho a la devolución.
 A los solos efectos de esta devolución, el tipo del gasóleo profesional, a que se refiere este artículo, será de 71,86 euros por mil litros. Este tipo podrá ser modificado por la Ley de Presupuestos de la Comunidad Autónoma de Canarias.
 3. La base de la devolución para los agricultores y transportistas estará constituida por el consumo medio del gasóleo profesional. Este consumo medio será establecido por el consejero de Economía y Hacienda mediante Orden teniendo en cuenta, respecto de los agricultores, la dimensión y orientación productiva de las explotaciones agrícolas, la potencia de la maquinaria inscrita en el registro de maquinaria agrícola y otros factores que pudieran condicionar el consumo de gasóleo, y respecto de los transportistas, la clase, tipo y potencia del vehículo, la distancia recorrida y el número de empleados.
@@ -23,5 +23,7 @@ Transportista: El titular de la actividad del transporte público terrestre de m
 No tiene esta consideración, a efectos del Impuesto, quien realice transporte terrestre privado complementario conforme a lo establecido en los artículos 65 y 66 de la Ley 13/2007, de 17 de mayo, de Ordenación de Transporte por Carretera de Canarias.
 Vehículos: Aparatos aptos para circular por las vías y terrenos públicos y definidos como tales en el Anexo II del Reglamento General de Vehículos aprobado por el Real Decreto 2.822/1998, de 23 de diciembre.
 Vías y terrenos públicos: Los descritos en el artículo 2 del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial aprobado por el Real Decreto Legislativo 339/1990, de 2 de marzo.
+Se modifica el apartado 1 por el art. 2.6 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
+Redactado conforme a la corrección de errores publicada en BOC núm. 244, de 17 de diciembre de 2014. Ref. BOE-A-2015-187
 Se añade por el art. 1.1 de la Ley 3/2008, de 31 de julio. Ref. BOE-A-2008-14519
 Este precepto tiene efectos desde el 1 de enero de 2008, según establece la disposición final única.1 de la citada ley.
