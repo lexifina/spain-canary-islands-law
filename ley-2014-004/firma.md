@@ -8,9 +8,9 @@ Agricultura, ganadería, silvicultura y pesca
 0203.19 | Las demás (porcino fresco o refrigerado). | 10
 0207.11 | Sin trocear, frescos o refrigerados (gallo o gallina). | 5
 0207.13 | Trozos y despojos, frescos o refrigerados (gallo o gallina). | 5
-0407.21.00.00 | Los demás huevos frescos de gallina de la especie Gallus domesticus. | 15
-0407.29.10.00 | Los demás huevos frescos de aves de corral, distintos de los de las aves de la especie Gallus domesticus. | 15
-0407.90.10.00 | Los demás huevos conservados o cocidos, con cascarón, de aves de corral. | 15
+0407.21.00.00 | Los demás huevos frescos de gallina de la especie Gallus domesticus | 10
+0407.29.10.00 | Los demás huevos frescos de aves de corral, distintos de los de las aves de la especie Gallus domesticus | 10
+0407.90.10.00 | Los demás huevos conservados o cocidos, con cascarón, de aves de corral | 10
 0701.90 | Patatas frescas o refrigeradas, excepto para siembra. | 10
 0703 | Cebollas; chalotes; ajos; puerros y demás hortalizas aliáceas; frescos o refrigerados. Solamente gravadas las cebollas. | 10
 Minas y canteras
@@ -31,8 +31,8 @@ Materiales de construcción
 Producción y refino de petróleo
 2710.12.41 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g por litro, con un octanaje (RON) inferior a 95. | 7 euros / 1000 Lt
 2710.12.45 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g por litro, con un octanaje (RON) superior o igual a 95 pero inferior a 98. | 7 euros / 1000 Lt
-2710.12.49 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g por litro, con un octanaje (RON) superior o igual a 98. | 7 euros / 1000 Lt
-2710.12.51 | Las demás gasolinas con un contenido en plomo superior a 0,013 g por litro, con un octanaje (RON) inferior a 98. | 7 euros / 1000 Lt
+2710.12.49 | Las demás gasolinas con un contenido en plomo igual o inferior a 0,013 g por litro, con un octanaje (RON) superior o igual a 98. | 7,5 euros/1000 Lt
+2710.12.51 | Las demás gasolinas con un contenido en plomo superior a 0,013 g por litro, con un octanaje (RON) inferior a 98. | 7,5 euros/1000 Lt
 2710.12.90 | Los demás aceites livianos (ligeros). | 7,5 euros / 1000 Lt
 2710.19.21.00 | Aceites medios carburorreactores. | 8,5 euros / 1000 Lt
 2710.19.25.00 | Los demás aceites medios. | 8,5 euros / 1000 Lt
@@ -200,6 +200,7 @@ Artes gráficas y su edición
 4909 | Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales; incluso con ilustraciones; adornos o aplicaciones; o con sobre. Excepto las tarjetas postales lenticulares con efecto 3D. | 15
 4910 | Calendarios de cualquier clase impresos; incluidos los tacos de calendario. | 5
 4911 | Los demás impresos; incluidas las estampas; grabados y fotografías. | 15
+Se modifica la P. estadística 2710.12.49, 2710.12.51, 0407.21.00.00, 0407.29.10.00 y 0407.90.10.00 por la disposición final 1 de la Ley 11/2014, de 26 de diciembre. Ref. BOE-A-2015-1113
 ANEXO II
 P. Estadística | Descripción
 Agricultura, ganadería, silvicultura y pesca
