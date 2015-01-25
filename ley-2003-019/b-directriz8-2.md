@@ -5,4 +5,4 @@ b) Las estrategias referidas a los productos turísticos implantados y que deba 
 c) La concreción de la oferta de ocio con incidencia territorial, sus condiciones de implantación y, en su caso, su distribución territorial.
 d) Los criterios complementarios de referencia orientadores de la formulación y ejecución de la política turística, dentro del marco establecido en las presentes Directrices de Ordenación y en la normativa sectorial de aplicación.
 e) Los criterios o normas de coordinación administrativa en el ámbito insular para la gestión del modelo de desarrollo turístico que se implante.
-f) Los límites y ritmos de crecimiento de la oferta turística alojativa, así como de la oferta turística complementaria con incidencia territorial, y las condiciones de sectorización, en su caso, del suelo urbanizable turístico ya clasificado, acompasada con los primeros.
+Se deroga la letra f) por la disposición derogatoria única.3 de la Ley 14/2014, de 26 de diciembre. Ref. BOE-A-2015-1116#ddunica.

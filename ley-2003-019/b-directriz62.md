@@ -1,4 +1,6 @@
 Directriz 62. Actividades agrarias. (ND)
 1. El planeamiento delimitará y preservará de la urbanización y las infraestructuras el suelo rústico de protección agraria, por el carácter estratégico de su valor productivo y paisajístico, y su relevante valor social y cultural, en relación con la población y los usos y estructuras agrarias tradicionales. Como criterio general, se buscarán las alternativas de ubicación que no afecten a los suelos de valor reconocido, estén o no en cultivo.
 2. El planeamiento insular delimitará las zonas de interés agrícola, evitando su transformación y estableciendo criterios y determinaciones de protección, en función de su valor edafológico y paisajístico.
-3. Los Proyectos de Actuación Territorial que se emplacen en terrenos categorizados como suelo rústico de protección agraria, deberán estar vinculados a actuaciones de recuperación agraria y emplazarse en áreas agrícolas degradadas y en los suelos de menor valor agrológico.
+3. Los proyectos de actuación territorial que se emplacen en terrenos categorizados como suelo rústico de protección agraria, solo podrán ocupar las áreas más degradadas o de menor valor productivo.
+Además, cuando las actividades que se pretendan implantar en dichos suelos no tengan vinculación con su aprovechamiento agropecuario, los proyectos de actuación territorial que les legitiman deberán asegurar la minimización del impacto sobre el medio rural.
+Se modifica el apartado 3 por la disposición adicional 5 de la Ley 14/2014, de 26 de diciembre. Ref. BOE-A-2015-1116#daquinta.

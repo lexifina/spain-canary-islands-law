@@ -1,6 +1,6 @@
 CAPÍTULO II
 Sistema territorial
-Directriz 53. Elementos del sistema. (ND)
+Directriz 53. Elementos del sistema. (R)
 1. El planeamiento deberá considerar el sistema territorial integrado al menos por los siguientes elementos:
 a) El sistema urbano, formado por las ciudades y los núcleos urbanos en el medio rural, así como por los espacios destinados a las actividades económicas, incluidas las zonas turísticas.
 b) El sistema rural, constituido por los espacios excluidos de los procesos de urbanización por su valor como espacio vacío o por razones económicas y ambientales, incluidos los espacios protegidos y los paisajes naturales y culturales.
@@ -10,3 +10,4 @@ a) Núcleos I, centros de especial concentración de servicios de nivel autonóm
 b) Núcleos II, principales centros de servicios de nivel insular. Tendrán esta consideración el resto de las capitales insulares, así como aquellos núcleos que desde la ordenación insular se definan como núcleos de servicios para atender las necesidades de un ámbito territorial y poblacional amplio, superior en todo caso al del municipio.
 c) Núcleos III, centros locales. Centros de concentración de servicios más inmediatos y menos especializados que los anteriores, destinados a un ámbito limitado a nivel municipal o de pequeña comarca aislada.
 d) Núcleos IV, otros núcleos. Centros de servicios limitados a su propia población y la del entorno rural inmediato.
+Se modifica el carácter de la directriz por la disposición adicional 6 de la Ley 14/2014, de 26 de diciembre. Ref. BOE-A-2015-1116#dasexta.

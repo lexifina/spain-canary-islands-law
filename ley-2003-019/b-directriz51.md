@@ -1,4 +1,4 @@
-Directriz 51. Gestión del planeamiento. (NAD)
+Directriz 51. Gestión del planeamiento. (R)
 Para facilitar la ejecución de las actuaciones conducentes a la implantación del modelo, las administraciones públicas canarias deberán:
 a) Desarrollar la transmisión permanente de ideas, la educación y la formación sobre sistemas de ejecución y mecanismos de gestión urbanística y territorial, fomentando su desarrollo demostrativo con la colaboración de empresas privadas o públicas.
 b) Colaborar en la constitución de agencias insulares de gestión territorial y urbanística que asesoren y colaboren en el desarrollo de actuaciones territoriales y urbanísticas con los municipios que lo soliciten.
@@ -10,3 +10,4 @@ e) Desarrollar el patrimonio público de suelo, como instrumento básico de inte
 3) La reglamentación de dicho patrimonio, a fin de establecer los necesarios mecanismos de control y transparencia de su destino y uso.
 4) La formación de mancomunidades o consorcios insulares entre las administraciones públicas canarias que deseen desarrollar una gestión estratégica unitaria de sus respectivos patrimonios de suelo, estudiando igualmente la conveniencia y viabilidad de crear eventuales institutos u otros órganos autonómicos que tengan por objeto la gestión del patrimonio público de suelo.
 5) El cumplimiento estricto del procedimiento de los convenios urbanísticos, destinando a incremento del patrimonio público de las compensaciones recibidas a través de los mismos.
+Se modifica el carácter de la directriz por la disposición adicional 6 de la Ley 14/2014, de 26 de diciembre. Ref. BOE-A-2015-1116#dasexta.

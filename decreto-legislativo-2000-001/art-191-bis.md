@@ -1,0 +1,9 @@
+Artículo 191 bis. Cumplimiento forzoso del restablecimiento del orden jurídico tras la finalización del procedimiento sancionador.
+Impuesta la sanción correspondiente, y transcurrido el plazo fijado para el restablecimiento de la legalidad infringida fijado en aquella sin que por el infractor se haya llevado a cabo, el órgano competente deberá acordar la ejecución forzosa del restablecimiento en los siguientes términos:
+a) Acordará en primer lugar la imposición de multas coercitivas por cuantía máxima cada una de 2.000 euros, hasta lograr la total restauración de la legalidad infringida. La multa coercitiva podrá ser reiterada con carácter mensual y en un número máximo de seis. La cuantía de las multas coercitivas se fijará teniendo en cuenta las siguientes circunstancias:
+1.º) La existencia de intencionalidad o reiteración en el incumplimiento de las obligaciones urbanísticas.
+2.º) La naturaleza de los perjuicios causados.
+3.º) El retraso en el cumplimiento de la obligación de reparar.
+En caso de impago por el obligado, el importe de las multas coercitivas se exigirá por vía de apremio.
+b) Si persiste el incumplimiento por el interesado o este manifiesta expresamente su negativa a ejecutar la orden de restauración o de suspensión, se procederá a la ejecución subsidiaria por la administración actuante y a costa del interesado. Cuando el interesado ofreciese su total colaboración en la ejecución subsidiaria, y así constase en el acta levantada a tal efecto por la administración actuante, el coste de la demolición será repercutido con una bonificación del cincuenta por ciento, siempre y cuando sus recursos e ingresos económicos anuales no superen el triple del salario mínimo interprofesional vigente en el momento de procederse a la ejecución forzosa.
+Se añade por el art. 53 de la Ley 14/2014, de 26 de diciembre. Ref. BOE-A-2015-1116.

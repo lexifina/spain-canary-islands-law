@@ -1,6 +1,7 @@
 CAPÍTULO VI
 Uso eficiente del suelo urbano
-Directriz 72. Reutilización y renovación. (ND)
+Directriz 72. Reutilización y renovación. (R)
 1. El planeamiento delimitará y desarrollará áreas de rehabilitación integral en las zonas urbanas, con destino residencial o turístico que se encuentren deficientemente utilizadas. El Gobierno de Canarias, en concertación con las restantes administraciones públicas canarias y los sectores sociales y económicos implicados, establecerá programas de actuación en estas zonas, en los que se incluirán incentivos a la renovación edificatoria en dichas áreas.
 2. El planeamiento general delimitará como suelo de renovación urbana las áreas de suelo urbano con destino residencial o industrial que, careciendo de valores culturales o urbanísticos apreciables, presenten una densidad o edificabilidad notablemente inferior a las propias de zonas urbanísticas similares dentro del propio núcleo. El planeamiento justificará las densidades y edificabilidades utilizadas como referencia para la delimitación de las diferentes áreas, acuerdo con sus respectivas características morfológicas.
 3. El planeamiento urbanístico delimitará igualmente, como suelo de renovación o rehabilitación urbana, los ámbitos de antiguos polígonos de viviendas y áreas residenciales e industriales periféricas de baja calidad ambiental o, en su caso, excesiva densidad de uso.
+Se modifica el carácter de la directriz por la disposición adicional 6 de la Ley 14/2014, de 26 de diciembre. Ref. BOE-A-2015-1116#dasexta.

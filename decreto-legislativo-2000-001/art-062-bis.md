@@ -1,3 +1,5 @@
-Artículo 62 bis. Instrumentos previos a la concesión de licencias urbanísticas.
-Toda actuación transformadora del suelo rústico, con carácter previo a la licencia municipal, está sujeta a la obtención de Proyecto de Actuación Territorial o Calificación Territorial, salvo los supuestos previstos en el artículo 63 de este texto refundido.
+Artículo 62 bis.Instrumentos previos a la concesión de licencias urbanísticas.
+1. En general las actuaciones transformadoras del suelo rústico, con carácter previo a la licencia municipal, cuando esta sea preceptiva, están sujetas a la aprobación de un proyecto de actuación territorial o de una calificación territorial por el cabildo de la isla, con las excepciones previstas en el artículo 63 de este texto refundido.
+2. A estos efectos los interesados podrán presentar consulta en el ayuntamiento correspondiente, que debe ser resuelta en el plazo máximo de quince días, sobre la necesidad o no de obtener del cabildo calificación territorial o autorización de un proyecto de actuación territorial o estar incluido en las excepciones previstas en el artículo 63.2 c) de este texto refundido, así como la posibilidad de acogerse a un procedimiento simplificado de otorgamiento de licencia.
+Se modifica por el art. 19.1 de la Ley 14/2014, de 26 de diciembre. Ref. BOE-A-2015-1116.
 Se añade por el art. 2.3 de la Ley 6/2009, de 6 de mayo. Ref. BOE-A-2009-9047
