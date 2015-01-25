@@ -1,0 +1,3 @@
+Disposición adicional vigesimotercera. El núcleo urbano de Tufía en el sitio de interés científico del mismo nombre.
+Se reconoce la preexistencia y compatibilidad del núcleo urbano de Tufía, en el municipio de Telde, isla de Gran Canaria, en el sitio de interés científico del mismo nombre, recogido en el anexo de Reclasificación de los Espacios Naturales de Canarias del Decreto legislativo 1/2000, de 8 de mayo, por el que se aprueba el Texto Refundido de las Leyes de Ordenación del Territorio y de los Espacios Naturales de Canarias, con el indicativo C-30.
+Las normas de conservación del espacio delimitarán y ordenarán el citado núcleo urbano, pormenorizando la compatibilidad de sus usos, condicionados a los objetivos de conservación.

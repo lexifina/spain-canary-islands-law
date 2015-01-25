@@ -1,0 +1,2 @@
+Disposición adicional vigesimosexta. Actuaciones urgentes en el núcleo de Ojos de Garza.
+Con carácter expreso se reconoce la urgente necesidad de acometer la recuperación del demanio marítimo-terrestre y sus zonas de servidumbre en el núcleo costero de Ojos de Garza, en el municipio de Telde (Gran Canaria), debiendo procederse, en el marco de lo previsto en la disposición adicional decimonovena de esta ley a la modificación del plan general de dicho municipio para habilitar suelo suficiente que permita el traslado de las familias residentes en dicho núcleo de población.

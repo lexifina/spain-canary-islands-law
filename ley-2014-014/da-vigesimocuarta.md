@@ -1,0 +1,3 @@
+Disposición adicional vigesimocuarta. Modificación de la disposición adicional tercera de la Ley 14/2009, de 30 de diciembre, por la que se modifica la Ley 7/1995, de 6 de abril, de Ordenación del Turismo de Canarias.
+Se añade un nuevo párrafo final en la disposición adicional tercera de la Ley 14/2009, de 30 de diciembre, por la que se modifica la Ley 7/1995, de 6 de abril, de Ordenación del Turismo de Canarias, con el siguiente tenor:
+«La presente regularización se aplicará, en su caso, a los planes generales de ordenación no adaptados cuando no exista prohibición en el planeamiento territorial citado».
