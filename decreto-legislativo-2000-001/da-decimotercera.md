@@ -1,10 +1,6 @@
 Disposición adicional decimotercera.
-1. A los efectos de la aplicación del régimen transitorio de la Ley de Costas, se considerarán áreas urbanas, con independencia de la existencia o no de instrumento de ordenación sobre las mismas y de la clase y categoría de suelo que en su caso se estableciera, las que, a 29 de julio de 1988, se encontraran en alguno de los siguientes supuestos:
-a) Las que comprendan terrenos que cuenten con acceso rodado, abastecimiento de agua, evacuación de aguas y suministro de energía eléctrica.
-b) Las que comprendan terrenos consolidados por la edificación al menos en dos terceras partes de su superficie, si el municipio en el que se ubicara tuviera en esa fecha planeamiento general en vigor.
-c) Las que comprendan terrenos consolidados por la edificación al menos en la mitad de su superficie, si el municipio en el que se ubicara el asentamiento no tuviera en esa fecha planeamiento general en vigor.
-2. Dicha declaración se efectuará por el órgano autonómico que se determine reglamentariamente, a iniciativa del Cabildo o del Ayuntamiento competente, que aportará los medios de prueba que sirvan de motivación al correspondiente acto.
-Téngase en cuenta que se encuentra suspendida esta disposición, desde el 28 de julio de 2009 para las partes en el proceso y desde el 6 de agosto de 2009 para los terceros, por providencia del TC de 29 de julio de 2009 que admite a trámite el recurso de inconstitucionalidad número 6964-2009. Ref. BOE-A-2009-13035. y que se mantiene la suspensión por Auto del TC de 10 de diciembre de 2009. Ref. BOE-A-2009-20646.
+(Anulada)
+Se declara inconstitucional y nula por Sentencia del TC 5/2015, de 22 de enero. Ref. BOE-A-2015-1893.
 Se mantiene la suspensión de la vigencia por el Auto del TC, de 10 de diciembre de 2009. Ref. BOE-A-2009-20646.
 Se suspende la vigencia y aplicación de esta disposición desde el 28 de julio de 2009 para las partes en el proceso y desde el 6 de agosto de 2009 para los terceros, por providencia del TC de 29 de julio de 2009. Ref. BOE-A-2009-13035.
 Se añade por el art. 1 de la Ley 7/2009, de 6 de mayo. Ref. BOE-A-2009-9048.
