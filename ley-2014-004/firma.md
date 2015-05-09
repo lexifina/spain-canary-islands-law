@@ -171,7 +171,7 @@ Alimentación y bebidas
 2208.40 | Ron y demás aguardientes procedentes de la destilación, previa fermentación, de productos de la caña de azúcar. | 15
 2309 | Preparaciones del tipo de las usadas para la alimentación animal, excepto las destinadas a la acuicultura (2309.90.10.10, 2309.90.31.30 y 2309.90.41.20). | 5
 Tabaco
-2402 | Cigarros (puros), incluso despuntados, cigarritos (puritos) y cigarrillos, de tabaco o de sucedáneos del tabaco. | 25
+2402 | Cigarros (puros), incluso despuntados, cigarritos (puritos) y cigarrillos, de tabaco o de sucedáneos de tabaco. | 15
 Textil, cuero y calzado
 4601 | Trenzas y artículos similares, de materia trenzable, incluso ensamblados en tiras; materia trenzable, trenzas y artículos similares de materia trenzable, tejidos o paralelizados, en forma plana, incluso terminados (por ejemplo: esterillas, esteras, cañizos). | 5
 4602 | Artículos de cestería obtenidos directamente en su forma con materia trenzable o confeccionados con artículos de la partida 4601; manufacturas de esponja vegetal (paste o lufa). | 5
@@ -200,6 +200,7 @@ Artes gráficas y su edición
 4909 | Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales; incluso con ilustraciones; adornos o aplicaciones; o con sobre. Excepto las tarjetas postales lenticulares con efecto 3D. | 15
 4910 | Calendarios de cualquier clase impresos; incluidos los tacos de calendario. | 5
 4911 | Los demás impresos; incluidas las estampas; grabados y fotografías. | 15
+Se modifica la P. estadística 2402 por la disposición final 1 de la Ley 9/2015, de 27 de abril. Ref. BOE-A-2015-5801
 Se modifica la P. estadística 2710.12.49, 2710.12.51, 0407.21.00.00, 0407.29.10.00 y 0407.90.10.00 por la disposición final 1 de la Ley 11/2014, de 26 de diciembre. Ref. BOE-A-2015-1113
 ANEXO II
 P. Estadística | Descripción
