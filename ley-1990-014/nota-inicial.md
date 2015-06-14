@@ -1,1 +1,1 @@
-Incluye la corrección de errores del título publicada por Decreto 223/1990, de 24 de septiembre. Ref. BOC-j-1990-90253
+Téngase en cuenta que quedan derogadas las disposiciones de esta norma en aquello en que se opongan a lo dispuesto en la Ley 8/2015, de 1 de abril. Ref. BOE-A-2015-4621#ddunica, sin que afecte a la vigencia de las disposiciones que resultan de aplicación a la Administración pública de la Comunidad Autónoma, según establece su disposición derogatoria única.
