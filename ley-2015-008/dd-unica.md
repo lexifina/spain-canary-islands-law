@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a lo dispuesto en la presente ley. En especial, queda derogada la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, en todo lo regulado por esta ley, específicamente sus títulos III y IV, sin que afecte a la vigencia de las disposiciones que resultan de aplicación a la Administración pública de la Comunidad Autónoma.
