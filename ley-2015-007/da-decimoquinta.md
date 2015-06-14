@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Ejecución de sanciones pecuniarias municipales mediante trabajos en beneficio de la comunidad vecinal.
+En el ejercicio de la potestad sancionadora y atendiendo a los principios generales e informadores del derecho sancionador, los municipios, a través de la correspondiente ordenanza, podrán posibilitar la sustitución de las multas impuestas por infracciones administrativas, por la ejecución de trabajos en beneficio de la comunidad vecinal.
