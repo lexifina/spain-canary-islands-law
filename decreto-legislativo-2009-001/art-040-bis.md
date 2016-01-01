@@ -1,14 +1,16 @@
-Artículo 40 bis. Tributación de la modalidad de juego relativa al bingo y bingo electrónico.
-1. La base imponible del juego del bingo tradicional estará constituida por el importe del valor facial de los cartones adquiridos; en el caso del juego del bingo en su modalidad electrónica, la base imponible estará constituida por la diferencia entre el importe total de los ingresos obtenidos procedentes del juego de esta modalidad y las cantidades satisfechas a los jugadores por premios.
-2. El tipo de gravamen aplicable al juego del bingo en la modalidad tradicional será el 20 por ciento; no obstante, en el caso de salas de bingo que mantengan su plantilla media en el ejercicio respecto a la del ejercicio anterior podrán acogerse a la siguiente escala:
-Suma acumulada de los valores faciales de los cartones adquiridos por sala | Tipo aplicable
-De 0 a 3.500.000,00 euros | 16%
-Más de 3.500.000,00 euros | 20%
-A estos efectos, para el cálculo de la plantilla media de la entidad se tomarán las personas empleadas, en los términos que disponga la legislación laboral, teniendo en cuenta la jornada contratada en relación con la jornada completa. A estos efectos los obligados tributarios deberán acreditar, dentro del primer trimestre del ejercicio siguiente a su aplicación que se ha cumplido el requisito de mantenimiento del empleo.
-En caso de que, con posterioridad a la aplicación del tipo reducido, no se mantuviera la plantilla media en la sala o se produzca el cese de la actividad en la misma, se procederá a la liquidación y pago de las cantidades no ingresadas de acuerdo el tipo ordinario establecido en el punto a anterior, junto con los correspondientes intereses de demora en el siguiente periodo de pago o, en su caso, dentro de los treinta días siguientes al cese.
-Para la aplicación de esta escala será necesario que, previamente, el sujeto pasivo se comprometa al mantenimiento del empleo en los términos referidos, y al reintegro, en su caso, de las cantidades referidas en el párrafo anterior.
-El tipo de gravamen aplicable al juego del bingo en la modalidad electrónica será el 30 por ciento.
-3. El ingreso de la cuota correspondiente se realizará, en la modalidad del juego del bingo tradicional, y en defecto de regulación reglamentaria, mediante autoliquidación en el momento de la adquisición de los cartones.
-En la modalidad de bingo electrónico, el ingreso de la cuota se efectuará dentro de los veinte primeros días del mes siguiente al que corresponda el devengo.
+Artículo 40 bis. Tributación relativa al bingo.
+1. La Tasa sobre juegos de suerte, envite o azar relativa al juego del bingo se devengará con la celebración del juego, salvo en la modalidad tradicional que se devengará en el momento de adquisición de los cartones de bingo.
+2. La base imponible de la Tasa sobre juegos de suerte, envite o azar relativa al juego del bingo, en el caso de la modalidad tradicional, será el importe del valor facial de los cartones adquiridos, y en el supuesto del bingo electrónico la cantidad que los jugadores dediquen a su participación en el juego descontada la cantidad destinada a premio.
+3. El tipo de gravamen de la Tasa sobre juegos de suerte, envite o azar relativa al juego del bingo en el caso de modalidad tradicional será el 16 por 100, en el caso de bingo en la modalidad electrónico de sala se aplicará la siguiente escala:
+Suma acumulada de las cantidades por sala que los jugadores dediquen a la participación en el juego | Tipo de gravamen
+De 0 a 3.500.000 euros | 30,00 %
+Más de 3.500.000 euros | 45,00 %
+En el supuesto de bingo en la modalidad electrónico de red, el tipo de gravamen será el 30 por 100.
+4. En la Tasa sobre juegos de suerte, envite o azar relativa al juego del bingo en la modalidad tradicional, la cuota tributaria se determinará e ingresará por el sujeto pasivo con anterioridad a la adquisición de los cartones necesarios para el desarrollo del juego, a través del modelo de autoliquidación y forma que establezca la consejería competente en materia tributaria.
+En la Tasa sobre juegos de suerte, envite o azar relativa al juego del bingo electrónico de sala, la cuota tributaria se determinará por el sujeto pasivo mensualmente, aplicando la escala sobre la base imponible correspondiente al período de liquidación mensual, e ingresará la cuota tributaria a través de una autoliquidación que deberá presentarse en los primeros veinte días naturales del mes siguiente a la finalización del período de liquidación mensual.
+Tratándose de bingo en la modalidad electrónico de red, la cuota tributaria se determinará por el sujeto pasivo trimestralmente, aplicando el tipo de gravamen sobre la base imponible correspondiente al período de liquidación trimestral, e ingresará la cuota tributaria a través de una autoliquidación que deberá presentarse en los primeros veinte días naturales del mes siguiente a la finalización del período de liquidación trimestral.
+La autoliquidación se realizará en el modelo y forma que establezca la consejería competente en materia tributaria.
+Se autoriza al Gobierno de Canarias a modificar el período de liquidación y los plazos de presentación de la autoliquidación.
+Se modifica por la disposición final 3.6 de la Ley 11/2015, de 29 de diciembre. Ref. BOE-A-2016-1607.
 Se añade por el art. 49 de la Ley 4/2012, de 25 de junio. Ref. BOE-A-2012-9282.
 Redactado conforme a la corrección de errores publicada en BOC núm. 139, de 17 de julio de 2012.

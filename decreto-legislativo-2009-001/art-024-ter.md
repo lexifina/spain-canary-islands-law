@@ -1,0 +1,3 @@
+Artículo 24 ter. Bonificación de la cuota por parentesco.
+Los sujetos pasivos incluidos en los grupos I y II de los previstos en el artículo 20.2 a) de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones, aplicarán una bonificación del 99,9 por 100 de la cuota tributaria derivada de las adquisiciones 'mortis causa' y de cantidades percibidas por los beneficiarios de seguros sobre la vida que se acumulen al resto de bienes y derechos que integran la porción hereditaria del beneficiario.
+Se añade por la disposición final 3.2 de la Ley 11/2015, de 29 de diciembre. Ref. BOE-A-2016-1607.
