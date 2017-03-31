@@ -1,0 +1,1 @@
+Téngase en cuenta que la Universidad Internacional de Canarias cambia su denominación por «Universidad del Atlántico Medio», con sede en Las Palmas de Gran Canaria, según establece el art. 1 de la Ley 2/2017, de 24 de marzo. Ref. BOE-A-2017-7820
