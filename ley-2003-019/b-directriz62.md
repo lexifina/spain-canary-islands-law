@@ -3,4 +3,8 @@ Directriz 62. Actividades agrarias. (ND)
 2. El planeamiento insular delimitará las zonas de interés agrícola, evitando su transformación y estableciendo criterios y determinaciones de protección, en función de su valor edafológico y paisajístico.
 3. Los proyectos de actuación territorial que se emplacen en terrenos categorizados como suelo rústico de protección agraria, solo podrán ocupar las áreas más degradadas o de menor valor productivo.
 Además, cuando las actividades que se pretendan implantar en dichos suelos no tengan vinculación con su aprovechamiento agropecuario, los proyectos de actuación territorial que les legitiman deberán asegurar la minimización del impacto sobre el medio rural.
+Se declara su vigencia con rango reglamentario por la disposición adicional 19 de la Ley 4/2017, de 13 de julio. Ref. BOE-A-2017-10295#da-19
+Téngase en cuenta que esta directriz podrá ser modificada mediante Decreto del Gobierno publicado únicamente en el "Boletín Oficial de Canarias", según se establece en la disposición adicional 19 mencionada.
+Se declara su vigencia con rango reglamentario por la disposición adicional 19 de la Ley 4/2017, de 13 de julio. Ref. BOE-A-2017-10295#da-19
+Téngase en cuenta que esta directriz podrá ser modificada mediante Decreto del Gobierno publicado únicamente en el "Boletín Oficial de Canarias", según se establece en la disposición adicional 19 mencionada.
 Se modifica el apartado 3 por la disposición adicional 5 de la Ley 14/2014, de 26 de diciembre. Ref. BOE-A-2015-1116#daquinta.

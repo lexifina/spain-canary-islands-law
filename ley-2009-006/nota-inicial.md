@@ -1,0 +1,1 @@
+Norma derogada, salvo los artículos 5, 12, 17.2 y 3, 19 a 22, disposición adicional quinta, disposiciones transitorias y disposición final, por la disposición derogatoria única.1.d) de la Ley 4/2017, de 13 de julio. Ref. BOE-A-2017-10295#dd

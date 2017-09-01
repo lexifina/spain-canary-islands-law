@@ -4,7 +4,8 @@ ROMÁN RODRÍGUEZ RODRÍGUEZ,
 Presidente
 ANEXO
 Puertos e instalaciones marítimas y portuarias de titularidad de la Comunidad Autónoma de Canarias
-Grupo I: Puertos de Interés General de la Comunidad Autónoma de Canarias
+Grupo I
+Puertos de Interés General de la Comunidad Autónoma de Canarias
 Nombre | Isla | Municipio
 La Restinga. | El Hierro. | La Frontera.
 Corralejo. | Fuerteventura. | La Oliva.
@@ -15,18 +16,18 @@ Arguineguín. | Gran Canaria. | Mogán.
 Santa Águeda. | Gran Canaria. | San Bartolomé de Tirajana.
 Playa Santiago. | La Gomera. | Alajeró.
 Vueltas. | La Gomera. | Valle Gran Rey.
-Órzola | Lanzarote. | Haría.
+Órzola. | Lanzarote. | Haría.
 Caleta del Sebo. | Lanzarote. | Teguise (La Graciosa).
 Puerto del Carmen. | Lanzarote. | Tías.
 Playa Blanca. | Lanzarote. | Yaiza.
 Tazacorte. | La Palma. | Tazacorte.
 Garachico. | Tenerife. | Garachico.
 Playa San Juan. | Tenerife. | Guía de Isora.
-Puerto de la Cruz. | Tenerife. | Puerto de la Cruz.
 Las Galletas. | Tenerife. | San Miguel.
-Grupo II: Puertos deportivos
+Grupo II
+Puertos deportivos
 Nombre | Isla | Municipio
-El Castillo/Caleta de Fuste. | Fuerteventura. | Antigua.
+El Castillo/Caleta Fuste. | Fuerteventura. | Antigua.
 Mogán. | Gran Canaria. | Mogán.
 Puerto Rico. | Gran Canaria. | Mogán.
 Pasito Blanco. | Gran Canaria. | San Bartolomé de Tirajana.
@@ -37,7 +38,9 @@ Puerto Colón. | Tenerife. | Adeje.
 La Galera. | Tenerife. | Candelaria.
 Radazul. | Tenerife. | El Rosario.
 Los Gigantes. | Tenerife. | Santiago del Teide.
-Grupo III. Instalaciones portuarias (Diques de abrigo)
+Puerto de la Cruz. | Tenerife. | Puerto de la Cruz.
+Grupo III
+Instalaciones portuarias (Diques de abrigo)
 Nombre | Isla | Municipio
 El Cotillo. | Fuerteventura. | La Oliva.
 Mogán. | Gran Canaria. | Mogán.
@@ -54,4 +57,5 @@ El Médano. | Tenerife. | Granadilla.
 Los Abrigos. | Tenerife. | Granadilla.
 El Puertito de Güimar. | Tenerife. | Güimar.
 San Marcos. | Tenerife. | Icod de los Vinos.
+Se modifican los Grupos I y II por la disposición final 6.2 de la Ley 4/2017, de 13 de julio. Ref. BOE-A-2017-10295#df-6
 Se modifica el Grupo II por el art. 13.14 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996
