@@ -1,0 +1,2 @@
+Disposición transitoria vigesimoprimera. Comisión de Valoraciones de Canarias.
+La Comisión de Valoraciones de Canarias continuará adscrita a la consejería competente en materia de ordenación del territorio, que le facilita toda la infraestructura administrativa para su adecuado funcionamiento, y seguirá actuando sin perjuicio de las competencias que correspondan a la consejería competente en materia de Hacienda pública, en tanto el Gobierno de Canarias, en ejercicio de sus competencias, no modifique esa adscripción.

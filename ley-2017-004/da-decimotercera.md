@@ -1,0 +1,5 @@
+Disposición adicional decimotercera. Deslinde y amojonamiento en espacios naturales protegidos.
+1. La consejería competente en materia de ordenación del territorio formulará y resolverá los expedientes de deslinde y amojonamiento de los espacios naturales protegidos, en virtud de los límites y descripciones establecidos en la Ley 12/1994, de 19 de diciembre, de Espacios Naturales de Canarias, así como de sus modificaciones posteriores, priorizando aquellas zonas colindantes con los suelos urbanos o urbanizables.
+A tales efectos, los trabajos de comprobación y las obras de señalización y amojonamiento tendrán la consideración de utilidad pública a los efectos previstos en los artículos 9 y 11 de la Ley de expropiación forzosa, determinándose, cuando fuere necesario, las indemnizaciones por ocupación temporal o definitiva a que hubiere lugar.
+El procedimiento de deslinde y amojonamiento será el previsto en la legislación de patrimonio de las administraciones públicas.
+2. El Gobierno mediante convenio podrá delegar en los cabildos el ejercicio de la competencia sobre deslinde y amojonamiento prevista en el apartado anterior.

@@ -1,0 +1,2 @@
+Disposición transitoria decimocuarta. Edificios que cuenten con uno de los informes técnicos.
+Cuando, en el momento de entrada en vigor de esta ley, el propietario de un inmueble sujeto a inspección técnica de edificios cuente con uno de los dos informes a que se refiere la normativa, tendrá derecho a que se emita el que le falta, sin obligación de solicitar el documento único a que se refiere la presente ley.

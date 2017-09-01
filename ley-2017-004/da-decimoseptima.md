@@ -1,0 +1,3 @@
+Disposición adicional decimoséptima. Usos complementarios de las explotaciones de flores y plantas.
+En las explotaciones en suelo rústico cuya actividad principal sea la producción y venta de flores y/o de plantas ornamentales se podrá realizar con el carácter de uso complementario, además de los previstos en el artículo 61 la venta de flor cortada, plantas ornamentales y productos vinculados con la jardinería aunque no sea de producción local, habida cuenta de la especialización característica de la producción principal.
+En todo caso, este uso deberá cumplir los límites espaciales y las condiciones que se establecen en el artículo 61 de esta ley.

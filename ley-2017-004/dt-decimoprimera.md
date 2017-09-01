@@ -1,0 +1,2 @@
+Disposición transitoria decimoprimera. Aplicación de la obligación de subrogación de la persona beneficiaria en la expropiación por imperativo de la ley.
+La subrogación de la persona beneficiaria en el pago de los tributos que graven el inmueble expropiado a partir de la presentación de la solicitud de determinación de justiprecio ante la Comisión de Valoraciones de Canarias será de aplicación a todos los expedientes que se encuentren en trámite a los seis meses de la entrada en vigor de la presente ley.
