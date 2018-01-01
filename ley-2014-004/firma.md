@@ -137,7 +137,7 @@ Alimentación y bebidas
 1901.90.99 | Las demás (Extracto de malta; preparaciones alimenticias de harina, sémola, fécula o extracto de malta…). Solamente gravados los productos de envase inferior a 15 kilos. | 5
 1902 | Pastas alimenticias; incluso cocidas o rellenas (de carne u otras sustancias) o bien preparadas de otra forma; tales como espaguetis; fideos; macarrones; tallarines; lasañas; ñoquis; ravioles o canelones; cuscús; incluso preparado. | 15
 1904.10.10 | Productos a base de cereales obtenidos por insuflado o tostado a base de maíz. | 5
-1905 | Productos de panadería, pastelería, o galletería, incluso con cacao, hostias, sellos vacíos del tipo de los usados para medicamentos, obleas, pastas desecadas de harina, almidón o fécula en hojas y productos similares. Excluido el pan congelado y los pellets de patata y los pellets de maíz. | 5
+1905 | Productos de panadería, pastelería, o galletería, incluso con cacao, hostias, sellos vacíos del tipo de los usados para medicamentos, obleas, pastas desecadas de harina, almidón o fécula en hojas y productos similares. Excluido el pan congelado y los pellets de patata, los pellets de maíz y los pellets de trigo. | 5
 1905 | Productos de panadería, pastelería, o galletería, incluso con cacao, hostias, sellos vacíos del tipo de los usados para medicamentos, obleas, pastas desecadas de harina, almidón o fécula en hojas y productos similares. Solamente el pan congelado. | 10
 2005.20.20 | Patatas (papas) En rodajas finas, fritas, incluso saladas o aromatizadas, en envases herméticamente cerrados, idóneos para su consumo inmediato. (Papas fritas tipo chips). | 5
 2006.00.31.00 | Cerezas confitadas con un contenido de azúcar superior al 13% en peso. | 5
@@ -160,7 +160,7 @@ Alimentación y bebidas
 2009.90 | Mezclas de jugos. Solamente gravados los productos de envase inferior a 150 kilos. | 5
 2101 | Extractos, esencias y concentrados de café, té o yerba mate y preparaciones a base de estos productos o a base de café, té o yerba mate; achicoria tostada y demás sucedáneos del café tostado y sus extractos, esencias y concentrados. | 5
 2103.20.00.00 | Ketchup y demás salsa de tomate. | 15
-2103.30 | Harina de mostaza y mostaza preparada. | 15
+2103.30 | Harina de mostaza y mostaza preparada, excepto la harina de mostaza clasificada en la posición 2103.30.10 en envases iguales o superiores a 20 kg. | 15
 2103.90.90 | Los demás (preparaciones para salsas y salsas preparadas, condimentos y sazonadores, compuestos), excepto la mayonesa y los condimentos, sazonadores y compuestos de envases igual o superior a 5 kilos. | 15
 2105 | Helados incluso con cacao. | 10
 2106.90.98 | Las demás preparaciones alimenticias no expresadas ni comprendidas en otras partidas. Excepto: Alimentos para niños que contengan leche y productos a base de leche. Excluidos los destinados a uso sanitario. Solamente gravados los productos de envases inferiores a 5 kilos. | 15
@@ -200,6 +200,7 @@ Artes gráficas y su edición
 4909 | Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales; incluso con ilustraciones; adornos o aplicaciones; o con sobre. Excepto las tarjetas postales lenticulares con efecto 3D. | 15
 4910 | Calendarios de cualquier clase impresos; incluidos los tacos de calendario. | 5
 4911 | Los demás impresos; incluidas las estampas; grabados y fotografías. | 15
+Se modifica la P. estadística 1905 y 2103.30 por la disposición final 11.2 y 4 de la Ley 7/2017, de 27 de diciembre. Ref. BOE-A-2018-1684
 Se modifica la P. estadística 2103.90.90 y 1905 por la disposición final 5.1 y 3 de la Ley 3/2016, de 29 de diciembre. Ref. BOE-A-2017-6861
 Redactada la disposición final 5.3 conforme a la corrección de errores publicada en el BOC núm.71, de 11 de abril de 2017. Ref. BOE-A-2017-7174
 Se modifica la P. estadística 2402 por la disposición final 1 de la Ley 9/2015, de 27 de abril. Ref. BOE-A-2015-5801
@@ -299,7 +300,7 @@ Alimentación y bebidas
 1901.90.99 | Las demás (Extracto de malta; preparaciones alimenticias de harina, sémola, fécula o extracto de malta…). Solamente gravados los productos de envase inferior a 15 kilos.
 1902 | Pastas alimenticias; incluso cocidas o rellenas (de carne u otras sustancias) o bien preparadas de otra forma; tales como espaguetis; fideos; macarrones; tallarines; lasañas; ñoquis; ravioles o canelones; cuscús; incluso preparado.
 1904.10.10 | Productos a base de cereales obtenidos por insuflado o tostado a base de maíz.
-1905 | Productos de panadería, pastelería, o galletería, incluso con cacao, hostias, sellos vacíos del tipo de los usados para medicamentos, obleas, pastas desecadas de harina, almidón o fécula en hojas y productos similares. Excluido el pan congelado y los pellets de patata y los pellets de maíz.
+1905 | Productos de panadería, pastelería, o galletería, incluso con cacao, hostias, sellos vacíos del tipo de los usados para medicamentos, obleas, pastas desecadas de harina, almidón o fécula en hojas y productos similares. Excluido el pan congelado y los pellets de patata, los pellets de maíz y los pellets de trigo.
 1905 | Productos de panadería, pastelería, o galletería, incluso con cacao, hostias, sellos vacíos del tipo de los usados para medicamentos, obleas, pastas desecadas de harina, almidón o fécula en hojas y productos similares. Solamente el pan congelado.
 2005.20.20 | Patatas (papas) En rodajas finas, fritas, incluso saladas o aromatizadas, en envases herméticamente cerrados, idóneos para su consumo inmediato. (Papas fritas tipo chips).
 2006.00.31.00 | Cerezas confitadas con un contenido de azúcar superior al 13% en peso.
@@ -321,7 +322,7 @@ Alimentación y bebidas
 2009.89 | Jugos de cualquier otra fruta o fruto, u hortaliza, incluso silvestre. Solamente gravados los productos de envase inferior a 150 kilos.
 2009.90 | Mezclas de jugos. Solamente gravados los productos de envase inferior a 150 kilos.
 2103.20.00.00 | Ketchup y demás salsa de tomate.
-2103.30 | Harina de mostaza y mostaza preparada.
+2103.30 | Harina de mostaza y mostaza preparada, excepto la harina de mostaza clasificada en la posición 2103.30.10 en envases iguales o superiores a 20 kg.
 2103.90.90 | Los demás (preparaciones para salsas y salsas preparadas, condimentos y sazonadores, compuestos), excepto la mayonesa y los condimentos, sazonadores y compuestos de envases igual o superior a 5 kilos.
 2105 | Helados incluso con cacao.
 2106.90.98 | Las demás preparaciones alimenticias no expresadas ni comprendidas en otras partidas. Excepto: Alimentos para niños que contengan leche y productos a base de leche. Excluidos los destinados a uso sanitario. Solamente gravados los productos de envases inferiores a 5 kilos.
@@ -351,5 +352,6 @@ Artes gráficas y su edición
 4909 | Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales; incluso con ilustraciones; adornos o aplicaciones; o con sobre. Excepto las tarjetas postales lenticulares con efecto 3D.
 4910 | Calendarios de cualquier clase impresos; incluidos los tacos de calendario.
 4911 | Los demás impresos; incluidas las estampas; grabados y fotografías.
+Se modifica la P. estadística 1905 y 2103.30 por la disposición final 11.3 y 5 de la Ley 7/2017, de 27 de diciembre. Ref. BOE-A-2018-1684
 Se modifica la P. estadística 2103.90.90 y 1905 por la disposición final 5.2 y 4 de la Ley 3/2016, de 29 de diciembre. Ref. BOE-A-2017-6861
 Redactada la disposición final 5.4 conforme a la corrección de errores publicada en el BOC núm.71, de 11 de abril de 2017. Ref. BOE-A-2017-7174
