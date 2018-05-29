@@ -1,6 +1,6 @@
 Artículo 77 bis. Ocupación efectiva de las viviendas.
 Las administraciones públicas canarias velarán para que la vivienda libre reúna los requisitos de habitabilidad, calidad y seguridad legalmente exigibles y para que se destine de manera efectiva al uso habitacional que le corresponde de acuerdo con la función social del derecho de propiedad.
-Téngase en cuenta que se suspende la vigencia y aplicación de este artículo, en la redacción dada por la Ley 2/2014, de 20 de junio Ref. BOE-A-2014-7325., desde el 27 de marzo de 2015 para las partes del proceso y desde el 17 de abril de 2015 para los terceros, por providencia del TC de 14 de abril de 2015 que admite a trámite el recurso de inconstitucionalidad 1824-2015. Ref. BOE-A-2015-4157. y que se mantiene la suspensión por auto del TC de 21 de julio de 2015. Ref. BOE-A-2015-8431.
+Se declara la desestimación del recurso inconstitucionalidad 1824-2015, en la redacción dada por la Ley 2/2014, de 20 de junio, por Sentencia 43/2018, de 26 de abril. Ref. BOE-A-2018-7139.
 Se mantiene la suspensión por auto del TC de 21 de julio de 2015. Ref. BOE-A-2015-8431.
 Se suspende la vigencia y aplicación de este precepto, en la redacción dada por la Ley 2/2014, de 20 de junio Ref. BOE-A-2014-7325., desde el 27 de marzo de 2015 para las partes del proceso y desde el 17 de abril de 2015 para los terceros, por providencia del TC de 14 de abril de 2015 que admite a trámite el recurso de inconstitucionalidad 1824-2015. Ref. BOE-A-2015-4157.
 Se añade por el art. 1.23 de la Ley 2/2014, de 20 de junio. Ref. BOE-A-2014-7325.
