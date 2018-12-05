@@ -1,0 +1,3 @@
+Artículo 15-bis. Deducción por arrendamiento de vivienda habitual vinculado a determinadas operaciones de dación en pago.
+En los supuestos de arrendamiento vinculados a determinadas operaciones de dación en pago contempladas en el artículo 35-bis de este Texto Refundido, los arrendatarios podrán deducirse el 25% de las cantidades satisfechas durante el ejercicio correspondiente, por el arrendamiento de la vivienda habitual, con un máximo de 1.200 euros anuales y con un nivel de renta no superior a 24.000 euros. Este importe se incrementará en 10.000 euros en el supuesto de opción por la tributación conjunta.
+Se añade por el art. 1.3 de la Ley 4/2018, de 30 de noviembre. Ref. BOE-A-2019-283

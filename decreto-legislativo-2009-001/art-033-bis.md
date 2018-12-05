@@ -1,0 +1,6 @@
+Artículo 33-bis. Tipo de gravamen reducido en la adquisición de vivienda habitual por familias monoparentales.
+El tipo de gravamen aplicable a la transmisión de un inmueble que vaya a constituir la vivienda habitual de una familia monoparental es del 1%, siempre y cuando se cumplan simultáneamente todos y cada uno de los requisitos siguientes:
+a) Que el contribuyente y sus descendientes tengan la consideración de miembro de una familia monoparental de conformidad con los requisitos previstos en los apartados 1, 2 y 4 del artículo 11-ter del Decreto Legislativo 1/2009, de 21 de abril.
+b) Que la suma de las bases imponibles en el impuesto sobre la renta de las personas físicas correspondientes a los miembros de la familia monoparental no exceda de 24.000 euros, cantidad que deberá incrementarse en 6.000 euros por cada persona por la que el contribuyente tenga derecho a aplicar el mínimo familiar, excluido el contribuyente.
+c) Que antes de la compra o en los dos años siguientes a la adquisición de la vivienda se acredite por el contribuyente la trasmisión en escritura pública de la anterior vivienda habitual, si la hubiere.
+Se añade por el art. 1.7 de la Ley 4/2018, de 30 de noviembre. Ref. BOE-A-2019-283
