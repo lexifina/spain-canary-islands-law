@@ -1,0 +1,3 @@
+Artículo 68 bis. Repercusión del impuesto.
+En las operaciones a las que resulten aplicables los regímenes especiales de los bienes usados y de objeto de arte, antigüedades y objetos de colección, los sujetos pasivos no estarán obligados a consignar en factura separadamente la cuota repercutida, debiendo entenderse, en su caso, comprendida en el precio de la operación, salvo que el destinatario así lo exija para el ejercicio de cualquier derecho de naturaleza tributaria.
+Se añade por la disposición final 7.20 de la Ley 7/2018, de 28 de diciembre. Ref. BOE-A-2019-860
