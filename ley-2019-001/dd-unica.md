@@ -1,0 +1,2 @@
+Disposición derogatoria única. Disposiciones que se derogan.
+Queda derogada la Ley 8/1997, de 9 de julio, Canaria del Deporte, y cuantas normas de igual o inferior rango incurran en oposición, contradicción o incompatibilidad con las disposiciones de esta ley, a excepción de los artículos 62 y 63 que seguirán siendo de aplicación hasta la entrada en vigor de las secciones 3.ª y 4.ª del capítulo II del título VI de la presente ley.
