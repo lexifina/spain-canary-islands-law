@@ -1,0 +1,2 @@
+Artículo primero.
+Se declara de aplicación al Cabildo Insular de Fuerteventura el régimen especial de organización a que se refiere la disposición adicional decimocuarta de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, y, en consecuencia, las normas contenidas en los capítulos II y III del título X de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, salvo las excepciones previstas en aquella.
