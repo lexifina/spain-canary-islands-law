@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 14 de mayo de 2019, salvo las disposiciones transitoria única y final 1, por la disposición derogatoria única.1.b) de la Ley 14/2019, de 25 de abril. Ref. BOE-A-2019-8792#dd

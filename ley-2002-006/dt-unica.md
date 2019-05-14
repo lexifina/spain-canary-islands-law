@@ -1,2 +1,0 @@
-Disposición transitoria única. Ordenación urbanística.
-En ausencia de planeamiento general adaptado a la legislación de ordenación del territorio de Canarias, y hasta la aprobación del mismo, los Planes Insulares de Ordenación y los Planes Territoriales Especiales a que se refiere la disposición adicional primera, podrán establecer, como normas de aplicación directa, las determinaciones previstas en el apartado 2 del artículo 5.
