@@ -1,0 +1,9 @@
+Disposición adicional única. Modificación de la Ley 9/2014, de medidas tributarias, administrativas y sociales de Canarias.
+Se modifica la disposición transitoria tercera de la Ley 9/2014, de medidas tributarias, administrativas y sociales de Canarias, quedando redactada con el siguiente tenor:
+«Disposición transitoria tercera. Prórroga de las concesiones de los puertos deportivos otorgadas al amparo de la normativa anterior.
+1. Las concesiones para la ocupación del dominio público marítimo-terrestre portuario otorgadas antes de la entrada en vigor de la presente ley para los puertos deportivos de la Comunidad Autónoma de Canarias podrán ser prorrogadas, a petición de su titular, por acuerdo del Consejo de Administración de Puertos Canarios, siempre que aquel no haya sido sancionado por infracción grave y no se superen en total los plazos previstos en esta disposición.
+2. El concesionario podrá solicitar la prórroga de la concesión desde la entrada en vigor de esta ley y, en todo caso, antes de que se extinga el plazo para el que fue concedida.
+El plazo de la prórroga se computará desde la finalización del plazo de concesión otorgada previamente, iniciándose esta frente a terceros como una nueva concesión a todos los efectos.
+3. La duración de esta prórroga en ningún caso podrá ser superior a la mitad del plazo máximo de vigencia establecido en la legislación estatal para concesiones sobre dominio público portuario en los puertos de interés general del Estado.
+4. En función de los usos, la resolución por la que se acuerde la prórroga podrá fijar un plazo de duración inferior y prever, a su vez, prórrogas sucesivas dentro de aquel límite temporal.
+5. La posibilidad de prórroga del plazo concesional prevista en esta disposición es independiente de la facultad otorgada al concesionario para solicitar una nueva concesión en los términos previstos en la vigente normativa autonómica portuaria.»
