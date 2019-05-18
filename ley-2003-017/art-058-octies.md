@@ -1,0 +1,3 @@
+Artículo 58 octies. Reconocimiento de embarcaciones e instalaciones.
+Todas las embarcaciones e instalaciones en que se desarrollen actividades de pesca-turismo, turismo acuícola y turismo marinero deberán estar identificadas mediante un logo específico para este tipo de actividades. Este logo identificativo deberá ubicarse en lugar visible de la embarcación empleada o de las instalaciones en las que se realicen tales actividades. El logo identificativo deberá cumplir con los requisitos especificados en el anexo de esta ley, que podrán ser modificados reglamentariamente por la consejería competente en materia de pesca del Gobierno de Canarias.
+Se añade por el art. único.3 de la Ley 15/2019, de 2 de mayo. Ref. BOE-A-2019-8793
