@@ -1,0 +1,6 @@
+Disposición derogatoria única. Disposiciones que se derogan.
+1. Queda derogada la Ley 9/1987, de 28 de abril, de Servicios Sociales.
+2. Queda derogado el Decreto 100/1998, de 26 de junio, por el que se regula la composición y funcionamiento de la Comisión Tutelar del Mayor legalmente incapacitado.
+3. Queda derogado el Decreto 93/2014, de 19 de septiembre, por el que se establecen los criterios para determinar la capacidad económica de la persona beneficiaria del Sistema para la Autonomía y Atención a la Dependencia y su participación económica en el coste de los servicios, así como la determinación de la cuantía de las prestaciones económicas del sistema en la Comunidad Autónoma de Canarias.
+4. Quedan derogados los artículos 15 y 16 del Decreto 131/2011, de 17 de mayo, por el que se establecen las intensidades de protección de los servicios y los criterios para determinar las compatibilidades y las incompatibilidades entre las prestaciones de atención a la dependencia del Sistema para la Autonomía y Atención a la Dependencia en el ámbito de la Comunidad Autónoma de Canarias.
+5. Igualmente, se derogan cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente ley.
