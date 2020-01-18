@@ -1,0 +1,1 @@
+Dado en Canarias, a 16 de enero de 2020.–El Presidente del Gobierno, Ángel Víctor Torres Pérez.–La Consejera de Derechos Sociales, Igualdad, Diversidad y Juventud, P.S., la Consejera de Sanidad (Decreto 217/2019, de 29 de noviembre, del Presidente), María Teresa Cruz Oval.–La Consejera de Sanidad, María Teresa Cruz Oval.
