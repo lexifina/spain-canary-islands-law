@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Queda derogado el Decreto ley 1/2020, de 16 de enero, de medidas urgentes, por el que se regula la ayuda para la adquisición de medicamentos financiados por el Sistema Nacional de Salud a las personas que ostenten la condición de pensionistas de la Seguridad Social y sus beneficiarios cuya renta anual sea inferior a 18000 euros, sin perjuicio de los efectos que hubiera podido producir durante su vigencia.
