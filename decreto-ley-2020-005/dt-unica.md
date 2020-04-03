@@ -1,0 +1,3 @@
+Disposición transitoria única. Procedimientos en tramitación.
+Las solicitudes de autorización de espacios de apuestas externas en casinos y salas de bingo presentadas con anterioridad a la entrada en vigor de este Decreto ley se regirán por la legislación vigente al tiempo de su presentación.
+La suspensión dispuesta en el artículo 1 no resultará de aplicación a las declaraciones responsables de apertura y funcionamiento de salones recreativos y de juegos y de locales de apuestas externas que traigan causa de declaraciones responsables de instalación presentadas con anterioridad a la entrada en vigor de este Decreto ley.
