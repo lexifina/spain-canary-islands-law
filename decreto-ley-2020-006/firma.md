@@ -1,0 +1,1 @@
+Dado en Canarias, a 17 de abril de 2020.‒El Presidente del Gobierno, Ángel Víctor Torres Pérez.‒La Consejera de Derechos Sociales, Igualdad, Diversidad, Noemí Santana Perera.‒El Consejero de Obras Públicas, Transportes y Vivienda, Sebastián Franquis Vera.
