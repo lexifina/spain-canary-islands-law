@@ -1,0 +1,1 @@
+Dado en Canarias, a 30 de julio de 2020.–El Presidente del Gobierno, Ángel Víctor Torres Pérez.‒El Vicepresidente y Consejero de Hacienda, Presupuestos y Asuntos Europeos, Román Rodríguez Rodríguez.‒El Consejero de Administraciones Públicas, Justicia y Seguridad, Julio Manuel Pérez Hernández.
