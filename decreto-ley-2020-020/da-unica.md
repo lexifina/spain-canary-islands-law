@@ -1,0 +1,2 @@
+Disposición adicional única. Carácter de renta o ingreso no computable.
+Las prestaciones reguladas en este Decreto-ley se excluirán y no se tendrán en cuenta para el cómputo de rentas por premios o recompensas otorgadas a personas con discapacidad en los centros ocupacionales o sociosanitarios, subvenciones, ayudas o becas destinadas a compensar un gasto realizado, así como por cualesquiera de las prestaciones o ayudas económicas y en especie otorgadas por las Administraciones públicas canarias.
