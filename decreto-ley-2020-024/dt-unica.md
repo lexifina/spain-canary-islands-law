@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen transitorio del procedimiento de adjudicación de las viviendas protegidas de promoción pública.
+Hasta tanto se regule el procedimiento para adjudicar las viviendas protegidas de promoción pública por la persona titular de la consejería competente en materia de vivienda, será de aplicación el procedimiento previsto en el Decreto 138/2007, de 24 de mayo, por el que se establece el régimen de adjudicación de las viviendas protegidas de promoción pública de titularidad del Instituto Canario de la Vivienda.

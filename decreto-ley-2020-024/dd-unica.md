@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas todas aquellas disposiciones de igual o inferior rango que se opongan o contradigan a lo dispuesto en el presente Decreto ley.
+2. En particular, se deroga el Decreto 138/2007, de 24 de mayo, por el que se establece el régimen de adjudicación de las viviendas protegidas de promoción pública de titularidad del Instituto Canario de la Vivienda. La eficacia de dicha derogación queda demorada hasta la fecha de entrada en vigor de la nueva regulación del procedimiento para adjudicar las viviendas protegidas de promoción pública, a que se refiere la disposición transitoria única de este Decreto ley.
