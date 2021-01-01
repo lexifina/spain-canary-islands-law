@@ -1,0 +1,3 @@
+Disposición transitoria decimocuarta. Revocación excepcional de la renuncia al régimen especial del pequeño empresario o profesional en el año 2021.
+Excepcionalmente durante el mes de enero de 2021, los empresarios o profesionales que hayan renunciado expresa o tácitamente al régimen especial del pequeño empresario o profesional, en los términos expresados en el apartado 2 del artículo 109 de la presente ley, podrán comunicar a la Agencia Tributaria Canaria, a través de la correspondiente declaración censal, la revocación de la renuncia y consiguiente inclusión en el citado régimen especial. La presentación extemporánea de dicha declaración censal no surtirá efecto alguno.
+Se añade por la disposición final 1.16 de la Ley 7/2020, de 29 de diciembre. Ref. BOE-A-2021-2396
