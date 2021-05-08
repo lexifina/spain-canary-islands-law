@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en el BOC núm. 200, de 30 de septiembre de 2020. Ref. BOC-j-2020-90393
+El presente Decreto-ley se entiende tácitamente sustituido por la Ley 1/2021, de 29 de abril, por la que se establece el régimen sancionador por incumplimiento de las medidas de prevención y contención frente al COVID-19 en la Comunidad Autónoma de Canarias. Ref. BOE-A-2021-9006
