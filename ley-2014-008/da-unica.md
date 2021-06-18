@@ -1,2 +1,0 @@
-Disposición adicional única. Unidades de identidad de género.
-El desarrollo reglamentario de las unidades de identidad de género previstas en el artículo 6.3 de la presente ley se efectuará en el plazo máximo de seis meses, sin que en ningún caso puedan verse menoscabados los derechos sanitarios de los/las usuarios/as recogidos en el articulado de esta ley y demás normas aplicables, ni los derechos de los/las profesionales reconocidos en el artículo 11 a una formación inicial y continuada en la materia, así como a la práctica de los conocimientos adquiridos.
