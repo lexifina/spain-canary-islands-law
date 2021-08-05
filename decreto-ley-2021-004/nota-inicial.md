@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 5 de agosto de 2021, a excepción de las disposiciones finales segunda a sexta, por la disposición derogatoria única.2 de la Ley 4/2021, de 2 de agosto. Ref. BOE-A-2021-14237#dd
