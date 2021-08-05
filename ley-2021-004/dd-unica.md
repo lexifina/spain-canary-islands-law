@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas cuantas disposiciones legales o reglamentarias se opongan a lo establecido en la presente ley.
+2. En particular, queda derogado el Decreto ley 4/2021, de 31 de marzo, de medidas urgentes para la agilización administrativa y la planificación, gestión y control de los Fondos procedentes del Instrumento Europeo de Recuperación denominado «Next Generation EU», en el ámbito de la Comunidad Autónoma de Canarias y por el que se establecen medidas tributarias en el Impuesto General Indirecto Canario para la lucha contra la COVID-19, a excepción de sus disposiciones finales segunda a sexta, ambas incluidas, las cuales permanecerán en vigor.
