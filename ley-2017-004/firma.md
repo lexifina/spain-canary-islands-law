@@ -1,6 +1,8 @@
 ANEXO
 Evaluación ambiental de proyectos
 (Derogado).
+Se deroga por la disposición derogatoria única.1.b) de la Ley 5/2021, de 21 de diciembre. Ref. BOE-A-2022-2543#dd
+Téngase en cuenta que este anexo ya se había derogado por la disposición derogatoria única.1.c) del Decreto-ley 15/2020, de 10 de septiembre.
 Se deroga por la disposición derogatoria única.1.c) del Decreto-ley 15/2020, de 10 de septiembre. Ref. BOC-j-2020-90372#dd
 Por tanto, ordeno a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
 Santa Cruz de Tenerife, 13 de julio de 2017.
