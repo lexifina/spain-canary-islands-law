@@ -1,0 +1,2 @@
+Disposición final decimoquinta. Entidades colaboradoras de la Administración para la emisión del visado de conformidad y calidad para la legalización territorial y ambiental de explotaciones ganaderas.
+El Gobierno de Canarias aprobará el reglamento de visado de conformidad y calidad para la legalización territorial y ambiental de explotaciones ganaderas y de habilitación, funcionamiento y registro de las entidades colaboradoras para su emisión en Canarias, a redactar por la consejería competente en materia de ganadería.

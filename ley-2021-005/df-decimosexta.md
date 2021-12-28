@@ -1,0 +1,2 @@
+Disposición final decimosexta. Desarrollo reglamentario de los requisitos documentales de las declaraciones responsables en materia de costas.
+Mediante orden de la persona titular de la consejería competente en materia de costas podrá precisarse, desarrollarse y completarse la documentación que debe acompañarse a las declaraciones responsables en materia de costas con arreglo al artículo 1.2.b) de la presente ley.
