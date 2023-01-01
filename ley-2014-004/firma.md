@@ -97,7 +97,7 @@ Química
 3923.29 | Sacos (bolsas), bolsitas y cucuruchos de los demás plásticos distintos de los de polímeros de etileno. Solamente gravados las biodegradables y compostables. Excepto los destinados a uso sanitario. | 5
 3923.30.10 | Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad inferior o igual a 2 litros. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios. | 15
 3923.30.90 | Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad superior a 2 litros. Excepto los destinados a uso sanitario y los artículos con una capacidad igual o superior a 20 litros. | 5
-3923.90.00.00 | Los demás. Artículos para el transporte o envasado, de plástico. Excepto redes extruidas de forma tubular, los PET (preformas) de capacidad inferior a 5 litros y los agrupadores de envases denominados HI-CONE y los envases alveolares para huevos | 5
+3923.90.00.00 | Los demás. Artículos para el transporte o envasado, de plástico. Excepto redes extruidas de forma tubular, los PET (preformas) y los agrupadores de envases denominados HI-CONE y los envases alveolares para huevos. | 5
 3925.20.00.00 | Puertas, ventanas, y sus marcos, contramarcos y umbrales, de plástico. | 5
 3925.90.80.00 | Los demás artículos para la construcción, de plástico, no expresados ni comprendidos en otra parte. | 5
 4012.12.00 | Neumáticos (llantas neumáticas) recauchutados del tipo de los utilizados en autobuses y camiones. | 5
@@ -211,6 +211,7 @@ Artes gráficas y su edición
 4909 | Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales, incluso con ilustraciones, adornos o aplicaciones, o con sobres. Excepto las tarjetas postales lenticulares con efecto 3D. | 15
 4910 | Calendarios de cualquier clase impresos, incluidos los tacos de calendario. | 5
 4911 | Los demás impresos, incluidas las estampas, grabados y fotografías. Excepto las fotografías impresas en soportes metálicos. | 15
+Se modifica por la disposición final 8.1 de la Ley 7/2022, de 28 de diciembre. Ref. BOE-A-2023-5961
 Se modifica por la disposicion final 5 de la Ley 6/2021, de 28 de diciembre de 2021. Ref. BOE-A-2022-2544
 Se modifica por el art. único.3 del Decreto-ley 21/2020, de 23 de diciembre. Ref. BOE-A-2021-4374
 Se modifica la P. estadística 1905 y 2103.30 por la disposición final 11.2 y 4 de la Ley 7/2017, de 27 de diciembre. Ref. BOE-A-2018-1684
@@ -284,7 +285,7 @@ Química
 3923.29 | Sacos (bolsas), bolsitas y cucuruchos de los demás plásticos distintos de los de polímeros de etileno. Solamente gravados las biodegradables y compostables. Excepto los destinados a uso sanitario.
 3923.30.10 | Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad inferior o igual a 2 litros. Excepto los destinados a uso sanitario, cosmético y condimentos alimenticios.
 3923.30.90 | Bombonas (damajuanas), botellas, frascos y artículos similares con capacidad superior a 2 litros. Excepto los destinados a uso sanitario y los artículos con una capacidad igual o superior a 20 litros.
-3923.90.00.00 | Los demás. Artículos para el transporte o envasado, de plástico. Excepto redes extruidas de forma tubular, los PET (preformas) de capacidad inferior a 5 litros y los agrupadores de envases denominados HI-CONE y los envases alveolares para huevos.
+3923.90.00.00 | Los demás. Artículos para el transporte o envasado, de plástico. Excepto redes extruidas de forma tubular, los PET (preformas) y los agrupadores de envases denominados HI-CONE y los envases alveolares para huevos.
 3925.20.00.00 | Puertas, ventanas, y sus marcos, contramarcos y umbrales, de plástico.
 3925.90.80.00 | Los demás artículos para la construcción, de plástico, no expresados ni comprendidos en otra parte.
 4012.12.00 | Neumáticos (llantas neumáticas) recauchutados del tipo de los utilizados en autobuses y camiones.
@@ -387,6 +388,7 @@ Artes gráficas y su edición
 4909 | Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales, incluso con ilustraciones, adornos o aplicaciones, o con sobres. Excepto las tarjetas postales lenticulares con efecto 3D.
 4910 | Calendarios de cualquier clase impresos, incluidos los tacos de calendario.
 4911 | Los demás impresos, incluidas las estampas, grabados y fotografías. Excepto las fotografías impresas en soportes metálicos.
+Se modifica por la disposición final 8.2 de la Ley 7/2022, de 28 de diciembre. Ref. BOE-A-2023-5961
 Se modifica por la disposicion final 5 de la Ley 6/2021, de 28 de diciembre de 2021. Ref. BOE-A-2022-2544
 Se modifica por el art. único.4 del Decreto-ley 21/2020, de 23 de diciembre. Ref. BOE-A-2021-4374
 Se modifica la P. estadística 1905 y 2103.30 por la disposición final 11.3 y 5 de la Ley 7/2017, de 27 de diciembre. Ref. BOE-A-2018-1684
