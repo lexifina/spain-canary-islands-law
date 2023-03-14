@@ -1,0 +1,4 @@
+Disposición transitoria única.
+La obligación referida en el artículo 23.1 de la presente ley entrará en vigor teniendo en cuenta lo siguiente:
+a) Los recursos presupuestarios destinados a las actividades y servicios culturales así como a la función cultural por parte del Gobierno de Canarias en los presupuestos generales de la Comunidad Autónoma de Canarias que se aprueben a partir del año 2030 no podrán ser inferiores a un 2% del presupuesto general de la Comunidad Autónoma de Canarias.
+b) A tal fin, los recursos presupuestarios referidos se incrementarán anualmente y de manera progresiva, y nunca por debajo del crecimiento medio del presupuesto general de la Comunidad Autónoma de Canarias, desde la entrada en vigor de la presente ley hasta el cumplimiento de lo dispuesto en el apartado anterior.
