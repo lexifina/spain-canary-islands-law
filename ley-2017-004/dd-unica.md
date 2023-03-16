@@ -1,6 +1,7 @@
 Disposición derogatoria única. Derogación normativa.
 1. Quedan derogadas las siguientes disposiciones:
 a) El Decreto Legislativo 1/2000, de 8 de mayo, por el que se aprueba el Texto Refundido de las Leyes de Ordenación del Territorio de Canarias y de Espacios Naturales de Canarias, con excepción del anexo de reclasificación de los espacios naturales de canarias que se mantiene vigente.
+Véase, sobre la vigencia del anexo del Decreto Legislativo 1/2000, de 8 de mayo. Ref. BOC-j-2000-90006, lo establecido en la disposición final 3 de la Ley 3/2023, de 6 de marzo. Ref. BOE-A-2023-12207
 b) La disposición adicional segunda y las disposiciones transitorias primera y tercera de la Ley 19/2003, de 14 de abril, por la que se aprueban las Directrices de Ordenación General y las Directrices de Ordenación del Turismo de Canarias.
 c) Las Directrices de Ordenación General y su memoria contenidas en el anexo de la Ley 19/2003, de 14 de abril, continuando en vigor las Directrices de Ordenación del Turismo.
 d) La Ley 6/2009, de 6 de mayo, de medidas urgentes en materia de ordenación territorial para la dinamización sectorial y la ordenación del turismo, salvo los artículos 5, 12, 17.2 y 3, 19 a 22, y la disposición adicional quinta, las disposiciones transitorias y la disposición final que se mantienen vigentes.
