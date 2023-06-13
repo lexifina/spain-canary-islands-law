@@ -1,6 +1,0 @@
-Artículo 16-bis. Composición.
-1. Podrán ser miembros de pleno derecho del Consejo de la Juventud de Canarias, de acuerdo con lo que se disponga reglamentariamente:
-a) Los representantes de las asociaciones de jóvenes y las secciones juveniles de asociaciones, de cualquier ámbito, o federaciones constituidas por estas, reconocidas legalmente como tales, inscritas en el registro correspondiente, y cuyo ámbito de actuación sea la Comunidad Autónoma de Canarias. En ningún caso, los miembros de dichas entidades en el consejo podrán ejercer mandato representativo público alguno.
-b) Los representantes de los consejos de la juventud insulares que, en su caso, se constituyan.
-2. El desempeño de las funciones propias de las personas que sean miembros del Consejo de la Juventud de Canarias no supone relación laboral o de empleo con la Administración Pública de la Comunidad Autónoma ni será retribuido, sin perjuicio de las indemnizaciones por razón del servicio que pudieran corresponderles de acuerdo con lo establecido en las normas de desarrollo reglamentario de esta ley y en la normativa autonómica reguladora de dichas indemnizaciones.
-Se añade por el art. 17 de la Ley 9/2014, de 6 de noviembre. Ref. BOE-A-2014-11996.
