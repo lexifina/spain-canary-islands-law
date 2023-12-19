@@ -1,1 +1,2 @@
+Esta norma pasa a denominarse "Decreto-ley 1/2022, de 20 de enero, de medidas urgentes en materia urbanística y económica para la construcción o reconstrucción de edificaciones destinadas a uso residencial afectadas por la erupción volcánica en la isla de La Palma.", según establece la disposición final 2.1 del Decreto-ley 9/2023, de 18 de diciembre. Ref. BOE-A-2024-4428#df-2
 Incluye la corrección de errores, con rectificación del título, publicada en el BOC núm. 17, de 25 de enero de 2022. Ref. BOC-j-2022-90016
