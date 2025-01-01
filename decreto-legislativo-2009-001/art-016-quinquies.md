@@ -1,0 +1,10 @@
+Artículo 16 quinquies. Deducción por cuotas satisfechas a la Seguridad Social por la contratación de empleados o empleadas de hogar.
+1. Los contribuyentes podrán deducir un 20 % de las cantidades satisfechas en el periodo impositivo por las cuotas a la Seguridad Social de un trabajador incluido en el Sistema Especial para Empleados del Hogar del Régimen General de la Seguridad Social, correspondiente a la cotización anual de un empleado o empleada del hogar familiar, que constituya la vivienda habitual del empleador o empleadora.
+El importe máximo de la deducción no podrá superar los 500 euros anuales, con independencia del número de personas contratadas.
+2. Solo tendrán derecho a la aplicación de esta deducción cualquiera de los siguientes contribuyentes:
+a) Los contribuyentes que a la fecha de devengo del impuesto tengan derecho a la aplicación del mínimo por descendientes regulado en la normativa del impuesto sobre la renta de las personas físicas, siempre que perciban rendimientos del trabajo o de actividades económicas.
+b) Los contribuyentes que tengan una edad igual o superior a 75 años.
+c) Los contribuyentes mayores de 65 años si tienen la consideración de personas con discapacidad física, orgánica o sensorial con un grado igual o superior al 65 por 100 o con discapacidad cognitiva, psicosocial, intelectual o del desarrollo con un grado igual o superior al 33 %.
+3. Las cuotas satisfechas se atribuirán íntegramente al contribuyente que figure como empleador salvo que se trate de matrimonios en régimen de gananciales, en cuyo caso se atribuirán a los cónyuges por partes iguales.
+4. La aplicación de la deducción queda condicionada a la declaración por parte del contribuyente del número de identificación fiscal o número de identidad de extranjero del trabajador incluido en el Sistema Especial para Empleados del Hogar del Régimen General de la Seguridad Social que genera el derecho a esta deducción.
+Se añade, con efectos desde el 1 de enero de 2024, por la disposición final 10.21 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
