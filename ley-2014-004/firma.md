@@ -69,7 +69,7 @@ Química
 2804.40.00.00 | Oxígeno. | 5
 2807 | Ácido sulfúrico; óleum. Solamente gravado el ácido sulfúrico con una concentración en peso menor o igual al 40%. | 5
 2811.21.00.00 | Dióxido de carbono. | 5
-2828.90.00.00 | Los demás. Solamente gravado el hipoclorito de sodio. | 5
+2828.90.00.00 | Los demás. Solamente gravado el hipoclorito de sodio. | 10
 3102.10.90.00 | Los demás. Solamente gravado la urea en disolución acuosa con una concentración en peso igual o inferior al 41% en peso. | 5
 3105.20.90.00 | Los demás. Abonos minerales o químicos con los tres elementos fertilizantes: nitrógeno, fósforo y potasio. Solamente gravados los productos a base de algas. | 5
 3208 | Pinturas y barnices a base de polímeros sintéticos o naturales modificados, dispersos o disueltos en un medio no acuoso; disoluciones definidas en la nota 4 del capítulo. Excepto las utilizadas en el sector de la automoción para la reparación y pintado de la carrocería del vehículo. | 5
@@ -211,6 +211,7 @@ Artes gráficas y su edición
 4909 | Tarjetas postales impresas o ilustradas; tarjetas impresas con felicitaciones o comunicaciones personales, incluso con ilustraciones, adornos o aplicaciones, o con sobres. Excepto las tarjetas postales lenticulares con efecto 3D. | 15
 4910 | Calendarios de cualquier clase impresos, incluidos los tacos de calendario. | 5
 4911 | Los demás impresos, incluidas las estampas, grabados y fotografías. Excepto las fotografías impresas en soportes metálicos. | 15
+Se modifica por la disposición final 15 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
 Se modifica por la disposición final 8.1 de la Ley 7/2022, de 28 de diciembre. Ref. BOE-A-2023-5961
 Se modifica por la disposicion final 5 de la Ley 6/2021, de 28 de diciembre de 2021. Ref. BOE-A-2022-2544
 Se modifica por el art. único.3 del Decreto-ley 21/2020, de 23 de diciembre. Ref. BOE-A-2021-4374
