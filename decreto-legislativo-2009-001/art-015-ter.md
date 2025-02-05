@@ -2,10 +2,11 @@ Artículo 15 ter. Deducción por gastos derivados de la adecuación de un inmueb
 1. Los contribuyentes podrán deducir el 10 % de las cantidades satisfechas en el periodo impositivo de los gastos de reparación y conservación, así como cualquier otro necesario para que un inmueble se encuentre en condiciones de ser arrendado, gastos de formalización de contratos de arrendamiento, gastos de primas de seguros por daños e impagos y los gastos necesarios para la obtención de certificados de eficiencia energética.
 2. La base de esta deducción estará constituida por las cantidades justificadas con factura, que deberá cumplir todas las condiciones establecidas en el Reglamento por el que se regulan las obligaciones de facturación aprobado por el Real Decreto 1619/2012, de 30 de noviembre. La factura recibida por el contribuyente deberá conservarse durante el plazo de prescripción.
 3. El límite máximo de deducción es de 150 euros tanto en tributación individual como en tributación conjunta, por inmueble arrendado.
-Cuando dos o más contribuyentes tengan derecho a esta deducción, su importe se prorrateará entre ellos por partes iguales.
+Cuando dos o más contribuyentes tengan derecho a esta deducción, su importe se prorrateará entre ellos en función del porcentaje de participación en la propiedad o usufructo del inmueble.
 4. La deducción solo resultará aplicable a los arrendamientos de vivienda previstos en el artículo 2 de la Ley 29/1994, de 24 de noviembre, de arrendamientos urbanos.
 5. En caso de incurrir en gastos de reparación y conservación del inmueble, la aplicación de la presente deducción queda condicionada a la declaración por parte del contribuyente del número de identificación fiscal del prestador de los servicios y de su importe anual.
 6. La presente deducción es incompatible con la deducción por gastos en primas de seguros de crédito para cubrir impagos de rentas de arrendamientos de vivienda regulada en el artículo 15 quater del presente texto refundido, no pudiendo aplicarse sobre las mismas cantidades ambas deducciones.
+Se modifica, con efectos desde el 1 de enero de 2024, por el art. 1.1 del Decreto-ley 1/2025, de 3 de febrero. Ref. BOE-A-2025-7592
 Se añade, con efectos desde el 1 de enero de 2024, por la disposición final 10.16 de la Ley 5/2024, de 26 de diciembre. Ref. BOE-A-2025-4913
 Se suprime por la disposición final 7.4 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-1566
 Se añade por el art. 1.3 de la Ley 4/2018, de 30 de noviembre. Ref. BOE-A-2019-283
