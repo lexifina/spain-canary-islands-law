@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Registro de planes públicos de igualdad.
+Desde la consejería competente en función pública se creará el registro de planes públicos de igualdad para un mejor conocimiento, seguimiento y transparencia de las medidas a adoptar por todas las Administraciones públicas en esta materia, así como de los protocolos de acoso sexual y por razón de sexo en las distintas Administraciones públicas.

@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas todas las normas de igual o inferior rango que contradigan o se opongan a lo dispuesto en esta ley.
+2. En particular se derogan los artículos 65, apartados 1 a 4, 76 y 83, de la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria, y el Decreto-ley 7/2024, de 31 de julio, de medidas urgentes para la reducción de la temporalidad, la gestión eficiente y la calidad en el empleo público de la Administración pública de la Comunidad Autónoma de Canarias, así como para la protección de la infancia en el ámbito de los juegos de azar y apuestas.

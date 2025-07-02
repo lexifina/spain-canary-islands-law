@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Silencio administrativo en los procedimientos de autorización para la prestación de servicios en la modalidad de teletrabajo.
+En los procedimientos de autorización para la prestación de servicios en la modalidad de teletrabajo en la Administración pública de la Comunidad Autónoma de Canarias, el vencimiento del plazo máximo para su resolución y notificación dará lugar a que se entienda desestimada por silencio administrativo.
