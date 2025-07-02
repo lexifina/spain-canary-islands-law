@@ -4,6 +4,8 @@ Dicha distancia no será aplicable cuando se trate de salones recreativos y de j
 2. La zona de influencia entre un salón recreativo y de juego y una sala de bingo será la comprendida en un radio de acción de 200 metros en línea recta, medida sobre plano, desde cada una de las puertas de acceso del que se pretende instalar.
 Dicha previsión no resultará de aplicación a aquellos salones recreativos y de juegos y salas de bingo que a la entrada en vigor de esta norma cuenten con autorizaciones vigentes, así como tampoco a la renovación de dichas autorizaciones.
 Resultará de aplicación, en todo caso, a las solicitudes de traslado de autorizaciones vigentes.
-3. A los efectos previstos en el apartado 1 de este artículo, la determinación de centro comercial, respecto de las autorizaciones pertinentes, será emitida por el órgano competente en materia de comercio de la Administración Pública Autonómica, o en su caso, conforme a la normativa sectorial vigente, por la Administración Pública competente.
+3. A los efectos previstos en el apartado 1 de este artículo, la determinación de centro comercial, respecto de las autorizaciones pertinentes, será emitida por el órgano competente en materia de comercio de la Administración pública autonómica o, en su caso, conforme a la normativa sectorial vigente, por la Administración pública competente.
+Se añade, con efectos de 1 de enero de 2024, por la disposición final 7.3 de la Ley 2/2025, de 26 de junio. Ref. BOE-A-2025-15655#df-7
+Téngase en cuenta que este artículo ya fue añadido por el Decreto-ley 7/2024, de 31 de julio.
 Se añade por la disposición final 7.2 del Decreto-ley 7/2024, de 31 de julio. Ref. BOE-A-2024-23637
 Esta modificación produce efectos a partir del 1 de enero de 2024, según establece la disposición final 10.3 del citado Decreto-ley
