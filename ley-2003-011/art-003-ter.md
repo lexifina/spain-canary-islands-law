@@ -1,0 +1,22 @@
+Artículo 3 ter. Programación de la actividad económica.
+1. El Consejo Social desempeñará las siguientes funciones en materia de programación de la actividad económica de la universidad:
+a) Ser informado de la planificación estratégica de la universidad.
+b) Aprobar el plan plurianual de financiación de la universidad y, en su caso, los contratos-programa u otros instrumentos de financiación pública negociados con la comunidad autónoma en los que se sustente, a propuesta del Consejo de Gobierno.
+c) Realizar el seguimiento del desarrollo y ejecución del plan estratégico y del plan plurianual de financiación mediante informes anuales del Consejo de Gobierno y formulación de recomendaciones en orden a su cumplimiento.
+d) Informar con carácter previo a su aprobación por el Consejo de Gobierno de la universidad los criterios básicos para la elaboración del presupuesto de la universidad.
+e) Aprobar el límite de gasto de carácter anual de la universidad atendiendo a los principios de sostenibilidad financiera y estabilidad presupuestaria.
+f) Aprobar, de acuerdo con los límites previstos en los presupuestos generales de la Comunidad Autónoma de Canarias, el presupuesto anual de la universidad, a propuesta del Consejo de Gobierno.
+g) Aprobar, a propuesta del Consejo de Gobierno, las concesiones de crédito extraordinario o suplemento de crédito, siempre que deba efectuarse un gasto que no pueda ser aplazado al ejercicio siguiente y para el cual no exista crédito consignado en los presupuestos o el existente sea insuficiente y tenga el carácter de no ampliable, así como la incorporación de remanentes no afectados, si los hubiera, del ejercicio inmediatamente anterior.
+La incorporación de remanentes de crédito quedará subordinada a la existencia de recursos financieros para ello y a la normativa sobre sostenibilidad financiera y estabilidad presupuestaria.
+h) Autorizar las transferencias que afecten a los créditos de gastos de capital del presupuesto de gasto, en el marco de lo previsto en el artículo 54 de la Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria, así como conocer con anterioridad a su formalización aquellas transferencias que afecten al capítulo I.
+i) Autorizar las propuestas de operaciones de endeudamiento y aval que la universidad presente para su aprobación a la comunidad autónoma.
+j) Aprobar la creación de empresas, fundaciones públicas y otras personas jurídicas de naturaleza pública por la universidad, así como sus modificaciones estatutarias.
+k) Aprobar la creación de empresas de base tecnológica promovidas por la universidad y participadas por esta o por alguno de los entes previstos en el apartado anterior, creadas a partir de patentes o de resultados generados por proyectos de investigación realizados en la universidad.
+l) Ser informado de los convenios y los contratos que celebre la universidad de los que se deriven obligaciones económicas cuya cuantía supere la que al efecto acuerde del Consejo Social.
+m) Aprobar, a propuesta del Consejo de Gobierno, los gastos plurianuales de la universidad.
+n) Aprobar, a propuesta del rector o rectora, el límite de gasto de carácter anual que la universidad podrá dedicar a retribuciones ligadas a órganos unipersonales de gobierno o asimilados.
+2. Para la aprobación del presupuesto por parte del Consejo Social, el Consejo de Gobierno de la universidad remitirá toda la documentación legalmente preceptiva, incluyendo los informes de impacto por razón de género y de impacto medioambiental, con la antelación que establezca a tal efecto el Reglamento de Organización y Funcionamiento.
+Entre la referida documentación debe figurar el informe favorable preceptivo del órgano correspondiente del Gobierno de Canarias, expresivo de la autorización de todos los costes de personal incluidos en el presupuesto y de las operaciones de endeudamiento que, en su caso, figuren en el mismo.
+Una vez aprobado, el Consejo Social debe enviar el presupuesto de la universidad a la consejería competente en materia de universidades en el plazo máximo de un mes, a contar desde la fecha de su aprobación.
+3. En particular, en relación con la financiación de la universidad, una representación del Consejo Social participará en el proceso de negociación de esa financiación, cualquiera que sea el instrumento que la articule, con la Comunidad Autónoma de Canarias.
+Se añade por el art. único.5 de la Ley 3/2025, de 25 de julio. Ref. BOE-A-2025-20901

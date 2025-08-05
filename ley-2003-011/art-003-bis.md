@@ -1,0 +1,8 @@
+Artículo 3 bis. Promoción de las actividades universitarias.
+En cuanto a la promoción de las actividades universitarias, el Consejo Social ostenta las siguientes funciones:
+a) Acordar la asignación singular e individual al personal docente e investigador de los complementos retributivos previstos en los artículos 76.3 y 87.2 de la Ley Orgánica del Sistema Universitario, a propuesta del Consejo de Gobierno.
+b) Aprobar la asignación al personal docente e investigador de retribuciones adicionales ligadas a méritos individuales por parte de la universidad, de acuerdo con lo previsto en los artículos 76.4 y 87.4 de la Ley Orgánica del Sistema Universitario.
+c) Aprobar la asignación al personal técnico, de gestión y de administración de servicios de retribuciones adicionales ligadas a méritos individuales, en los términos que fije la comunidad autónoma, de acuerdo con lo previsto en el artículo 93.3 de la Ley Orgánica del Sistema Universitario.
+d) Proponer líneas de actuación para mejorar la calidad y eficiencia de las actividades desarrolladas por la universidad, recabando la información académica necesaria de los servicios competentes y propiciando la realización de estudios, encuestas o iniciativas similares que permitan contrastar el rendimiento de los servicios, especialmente en lo que se refiere a docencia, investigación y gestión. A estos efectos, el Consejo Social también podrá disponer de la información de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa.
+e) Otorgar premios y distinciones que reconozcan la excelencia en el desempeño de cualesquiera actividades universitarias.
+Se añade por el art. único.5 de la Ley 3/2025, de 25 de julio. Ref. BOE-A-2025-20901
