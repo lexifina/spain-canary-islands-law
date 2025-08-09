@@ -1,0 +1,4 @@
+Artículo 109 ter. Inmovilización.
+1. Serán objeto de inmovilización los vehículos que ejerzan la actividad sin la correspondiente licencia o autorización expedida por el organismo competente o la ejerzan fuera del ámbito territorial amparado por la licencia o la autorización.
+2. Cuando con motivo de la actuación de los agentes de la autoridad se aprecien anomalías en un vehículo o en la documentación, se podrá ordenar la inmovilización del vehículo en la forma prevista en el artículo anterior e intervenir la documentación para revisarla o confrontarla, lo que se hará constar en el acta de revisión o en el boletín de denuncia. Una vez reparadas las anomalías o efectuadas las comprobaciones pertinentes, podrá levantarse la inmovilización del vehículo y devolver la documentación, salvo que resulte procedente la adopción de otro tipo de medidas correctoras o sancionadoras.
+Se añade por el art. único.56 de la Ley 4/2025, de 1 de agosto. Ref. BOE-A-2025-20902

@@ -1,0 +1,6 @@
+Artículo 17 bis. Comunicaciones.
+Las comunicaciones entre los órganos administrativos competentes para el otorgamiento de las distintas autorizaciones y habilitaciones contempladas en esta ley y en las normas dictadas para su ejecución y desarrollo y los titulares o solicitantes de las mismas, se llevarán a cabo utilizando únicamente medios electrónicos.
+Asimismo, será obligatorio utilizar exclusivamente medios electrónicos en las comunicaciones relativas a la adjudicación, control, modificación o extinción de las concesiones de transporte regular de viajeros de uso general.
+Las comunicaciones relativas a los procedimientos sancionadores que se instruyan en ejecución de lo dispuesto en esta ley a los titulares de las autorizaciones que en la misma se contemplan se realizarán también por medios electrónicos, de forma exclusiva.
+Lo dispuesto en los párrafos anteriores se entenderá sin perjuicio de los supuestos en que la Administración actuante solicite expresamente la presentación física de algún documento concreto, y de aquellas notificaciones o comunicaciones que se realicen en carretera por las fuerzas encargadas de la vigilancia del transporte.
+Se añade por el art. único.11 de la Ley 4/2025, de 1 de agosto. Ref. BOE-A-2025-20902
