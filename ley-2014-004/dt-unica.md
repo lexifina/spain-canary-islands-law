@@ -1,2 +1,0 @@
-Disposición transitoria única. Entrega de artículos de alimentación específicos para celíacos.
-En tanto el consejero competente en materia tributaria no determine el requisito o requisitos exigibles para la aplicación de la exención recogida en el artículo 2.3 de la presente ley, la aplicación de la exención está condicionada a que el producto de alimentación se encuentre certificado por la Federación de Asociaciones de Celíacos de España.
