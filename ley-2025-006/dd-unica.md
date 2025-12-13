@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas disposiciones del mismo o inferior rango se opongan a lo establecido en la presente ley. En particular, quedan derogados aquellos preceptos del Reglamento de las viviendas vacacionales de la Comunidad Autónoma de Canarias, aprobado por Decreto 113/2015, de 22 de mayo, que se opongan a lo dispuesto en esta ley y, en concreto, los artículos 12.2 y 13 del mismo.
