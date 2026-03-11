@@ -25,6 +25,7 @@ c) El servicio de promoción de la autonomía personal.
 d) El servicio de teleasistencia.
 e) La prestación económica para cuidados en el entorno familiar.
 f) La prestación vinculada a los servicios de centro de día, centro de noche, promoción de la autonomía personal y teleasistencia.
+g) La prestación económica de asistencia personal.
 6. El servicio de promoción de la autonomía personal es compatible con:
 a) Los alojamientos especiales.
 b) El servicio de ayuda a domicilio.
@@ -44,8 +45,10 @@ e) El servicio de teleasistencia.
 a) El servicio de centro de día.
 b) El servicio de promoción de la autonomía personal.
 c) El servicio de teleasistencia.
+d) El servicio de ayuda a domicilio.
 9. El servicio de teleasistencia es compatible con todas las prestaciones de servicio y económicas, excepto con el servicio de atención residencial, los alojamientos especiales y la prestación vinculada a los servicios de atención residencial.
 10. Las prestaciones económicas son incompatibles entre sí.
 11. Cada persona dependiente no podrá recibir más de dos prestaciones, ya sean de servicio o económicas. No obstante, podrá recibir el servicio de teleasistencia unido a otras dos prestaciones diferentes, siempre que estas últimas resulten compatibles entre sí.
 12. La prestación económica vinculada a un servicio será incompatible con el servicio de la misma naturaleza.
 13. Solo podrán disfrutarse de forma simultánea varias prestaciones cuando se encuentre expresamente prevista la compatibilidad de las mismas.
+Se modifican los apartados 5 y 8 por la disposición adicional única del Decreto-ley 2/2026, de 9 de marzo. Ref. BOE-A-2026-9043
