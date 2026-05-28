@@ -6,7 +6,7 @@ ANEXO
 Himno de Canarias
 Soy la sombra de un almendro,
 soy volcán, salitre y lava.
-Repartido en siete peñas
+Repartido en ocho peñas
 late el pulso de mi alma.
 Soy la historia y el futuro,
 corazón que alumbra el alba
@@ -15,9 +15,10 @@ navegando la esperanza.
 Luchadoras en nobleza
 bregan el terrero limpio
 de la libertad.
-Ésta es la tierra amada:
-mis Islas Canarias.
+Esta es la tierra amada:
+mis islas Canarias.
 Como un solo ser
 juntas soñarán
 un rumor de paz
 sobre el ancho mar.
+Se modifica por el art. único de la Ley 2/2026, de 27 de mayo. Ref. BOE-A-2026-17188
