@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a lo dispuesto en la presente ley. En especial, queda derogada la Ley 8/2015, de 1 de abril, de Cabildos Insulares y los artículos 10, 11, 12, 13, 15 y 18, las disposiciones adicionales primera, segunda, quinta y sexta, y las disposiciones transitorias tercera, cuarta y séptima de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias.
