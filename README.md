@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-197 norms with 834 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 18 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+198 norms with 845 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 19 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -211,6 +211,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `decreto-ley-2021-011/` | Decreto-ley 11/2021, de 2 de septiembre, por el que se establece el régimen jurídico de alerta sanitaria y las medidas para el control y gestión de la pandemia de COVID-19 en Canarias. | 2 | as first published, then each change: 6 September 2021 to 9 June 2022; **repealed** 9 June 2022 by Ley 2/2022, de 6 de junio (BOE-A-2022-10044) | 2026-10-28 |
 | `decreto-ley-2023-009/` | Decreto-ley 9/2023, de 18 de diciembre, de medidas en materia territorial y urbanística para la recuperación económica y social de la isla de La Palma tras la erupción volcánica de Cumbre Vieja. | 3 | as first published, then each change: 19 December 2023 to 12 June 2024; **repealed** 12 June 2024 by Ley 2/2024, de 29 de mayo (BOE-A-2024-15709) | 2025-12-20 |
 | `decreto-ley-2024-002/` | Decreto-ley 2/2024, de 11 de marzo, por el que se adoptan medidas urgentes en materia de vivienda protegida para la recuperación económica y social de la isla de La Palma tras la erupción volcánica de Cumbre Vieja. | 2 | as first published, then each change: 12 March 2024 to 31 July 2024; **repealed** 31 July 2024 by Ley 4/2024, de 26 de julio (BOE-A-2025-4912) | 2025-12-20 |
+| `ley-2014-004/` | Ley 4/2014, de 26 de junio, por la que se modifica la regulación del arbitrio sobre importaciones y entregas de mercancías en las Islas Canarias. | 11 | as first published, then each change: 1 July 2014 to 21 October 2025; **repealed** 21 October 2025 by Decreto Legislativo 1/2025, de 13 de octubre (BOC-j-2025-90249) | 2025-12-19 |
 
 ## Source
 

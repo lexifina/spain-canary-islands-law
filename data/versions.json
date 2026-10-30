@@ -6580,6 +6580,80 @@
      "sha256": "e31557b5bbb2373049be1f1e424dd9cde43097392b9f84e4682a163709e8cfa7"
     }
    ]
+  },
+  {
+   "slug": "ley-2014-004",
+   "short": "Ley 4/2014, de 26 de junio",
+   "title": "Ley 4/2014, de 26 de junio, por la que se modifica la regulación del arbitrio sobre importaciones y entregas de mercancías en las Islas Canarias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-7327",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2015-05-09",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    },
+    {
+     "from": "2025-10-21",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-7327",
+     "sha256": "f65231181ec575306476692de79d1c214df56658449395fd0aeba9e6a2e7471d"
+    }
+   ]
   }
  ]
 }
