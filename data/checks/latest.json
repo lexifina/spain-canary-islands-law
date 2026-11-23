@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T01:09:02Z",
+ "generated": "2026-11-23T14:05:24Z",
  "latest": {
   "boe-autonomico|spain/canary-islands/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "awaiting_text": 0,
@@ -17,11 +17,11 @@
     "repo": 198,
     "source_in_scope": 202
    },
-   "check_id": "es-boe-autonomico-20261123T010807Z",
+   "check_id": "es-boe-autonomico-20261123T135048Z",
    "commits": null,
    "corpus": "spain/canary-islands/acts",
    "error": null,
-   "finished": "2026-11-23T01:08:08Z",
+   "finished": "2026-11-23T13:50:49Z",
    "flags": [
     {
      "detail": "17 norms new or updated at the BOE over 7 days ago are not here in that form",
@@ -29,24 +29,24 @@
     }
    ],
    "gap": 25,
-   "note": "the BOE's list of 12477 consolidated norms (8854 Estatal, 3623 Autonómico) was read once at 01:06 UTC for the 20 Spanish corpora (check es-boe-estatal-20261123T010631Z); this repository's data run to 2026-10-30; 4 norms whose force ran out at the BOE are not held: outside this repository's scope; first check: the BOE's entries were recorded as the baseline for the next check",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-10-30; 4 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 10,
-   "runner": "lawwatch spain (f95b387938)",
+   "requests": 36,
+   "runner": "lawwatch spain (f13b561b4f)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-20T13:08:24Z",
+   "snapshot": "2026-11-23T13:21:37Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T01:08:07Z",
+   "started": "2026-11-23T13:50:48Z",
    "unexplained": 0,
    "verify": null
   }
