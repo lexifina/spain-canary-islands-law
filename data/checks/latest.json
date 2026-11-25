@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T15:21:28Z",
+ "generated": "2026-11-25T15:15:59Z",
  "latest": {
   "boe-autonomico|spain/canary-islands/acts": {
    "attempt": 8,
@@ -17,26 +17,26 @@
     "repo": 198,
     "source_in_scope": 202
    },
-   "check_id": "es-boe-autonomico-20261124T151116Z",
+   "check_id": "es-boe-autonomico-20261125T150710Z",
    "commits": null,
    "corpus": "spain/canary-islands/acts",
    "error": "KeyError: 'backfill'",
-   "finished": "2026-11-24T15:12:22Z",
+   "finished": "2026-11-25T15:08:17Z",
    "flags": [
     {
-     "detail": "17 norms new or updated at the BOE over 7 days ago are not here in that form",
+     "detail": "21 norms new or updated at the BOE over 7 days ago are not here in that form",
      "flag": "publish-lag"
     }
    ],
    "gap": 25,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 15:09 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261124T150940Z); this repository's data run to 2026-10-30; 4 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "note": "the BOE's list of 12482 consolidated norms (8858 Estatal, 3624 Autonómico) was read once at 15:05 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261125T150534Z); this repository's data run to 2026-10-30; 4 norms whose force ran out at the BOE are not held: outside this repository's scope",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 37,
+   "requests": 36,
    "runner": "lawwatch spain (e9c9e7e229)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -44,9 +44,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-24T12:36:43Z",
+   "snapshot": "2026-11-25T14:14:13Z",
    "source": "boe-autonomico",
-   "started": "2026-11-24T15:11:16Z",
+   "started": "2026-11-25T15:07:10Z",
    "unexplained": 0,
    "verify": null
   }
