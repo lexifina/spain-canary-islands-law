@@ -6,7 +6,7 @@
 
 Cómo supervisa global-law todos los países: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Esta página hace lo mismo solo para Canarias: cada vez que se lee una fuente oficial, cuándo y qué resultó (normas añadidas, modificadas y retiradas). La forma legible por máquina está en [data/checks/](../data/checks/) (JSON Lines, esquema `lexifina-check/1`), en `git log` como commits `Kind: check`, y mes a mes en [checks/](checks/).
 
-**Última comprobación:** 2026-11-25 15:08 UTC, Legislación consolidada del BOE, comunidades autónomas (datos abiertos): 36 direcciones leídas; 0 añadidas, 0 modificadas, 0 retiradas; la comprobación falló; 25 sin publicar, 0 de ellas sin motivo. Avisos: `publish-lag`.
+**Última comprobación:** 2026-11-26 15:18 UTC, Legislación consolidada del BOE, comunidades autónomas (datos abiertos): 37 direcciones leídas; 0 añadidas, 0 modificadas, 0 retiradas; la comprobación falló; 26 sin publicar, 0 de ellas sin motivo. Avisos: `publish-lag`.
 
 ## Fuentes
 
@@ -18,6 +18,14 @@ Cómo supervisa global-law todos los países: [global-law monitoring/](https://g
 
 | Inicio (UTC) | Fuente | Leídas | Añadidas | Modificadas | Retiradas | Sin publicar (sin motivo) | Resultado | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 15:16](checks/2026-11.md#es-boe-autonomico-20261126t151651z) | boe-autonomico | 37 | 0 | 0 | 0 | 26 (0) | la comprobación falló `publish-lag` | — |
+| [2026-11-26 14:07](checks/2026-11.md#es-boe-autonomico-20261126t140742z) | boe-autonomico | 37 | 0 | 0 | 0 | 26 (0) | la comprobación falló `publish-lag` | — |
+| [2026-11-26 13:07](checks/2026-11.md#es-boe-autonomico-20261126t130716z) | boe-autonomico | 37 | 0 | 0 | 0 | 26 (0) | la comprobación falló `publish-lag` | — |
+| [2026-11-26 12:07](checks/2026-11.md#es-boe-autonomico-20261126t120729z) | boe-autonomico | 37 | 0 | 0 | 0 | 26 (0) | la comprobación falló `publish-lag` | — |
+| [2026-11-26 11:07](checks/2026-11.md#es-boe-autonomico-20261126t110730z) | boe-autonomico | 37 | 0 | 0 | 0 | 26 (0) | la comprobación falló `publish-lag` | — |
+| [2026-11-26 10:08](checks/2026-11.md#es-boe-autonomico-20261126t100801z) | boe-autonomico | 37 | 0 | 0 | 0 | 26 (0) | la comprobación falló `publish-lag` | — |
+| [2026-11-26 09:23](checks/2026-11.md#es-boe-autonomico-20261126t092347z) | boe-autonomico | 37 | 1 | 0 | 0 | 26 (0) | la comprobación falló `publish-lag` | — |
+| [2026-11-26 06:20](checks/2026-11.md#es-boe-autonomico-20261126t062041z) | boe-autonomico | 37 | 0 | 0 | 0 | 25 (0) | la comprobación falló `publish-lag` | — |
 | [2026-11-25 15:07](checks/2026-11.md#es-boe-autonomico-20261125t150710z) | boe-autonomico | 36 | 0 | 0 | 0 | 25 (0) | la comprobación falló `publish-lag` | — |
 | [2026-11-25 14:07](checks/2026-11.md#es-boe-autonomico-20261125t140718z) | boe-autonomico | 36 | 0 | 0 | 0 | 25 (0) | la comprobación falló `publish-lag` | — |
 | [2026-11-25 13:07](checks/2026-11.md#es-boe-autonomico-20261125t130714z) | boe-autonomico | 36 | 0 | 0 | 0 | 25 (0) | la comprobación falló `publish-lag` | — |

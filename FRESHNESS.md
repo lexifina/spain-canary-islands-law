@@ -10,6 +10,6 @@ Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS
 
 - Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-23 13:50 UTC**.
 - Normas en este repositorio: 198; al día con la fuente: 177; modificadas en la fuente después de la versión de aquí: 21; ya no están en la fuente: 0.
-- Sin publicar: 25 (modificada en la fuente después de la versión de aquí: 21, fuera del alcance de este repositorio: 4); sin motivo: 0.
+- Sin publicar: 26 (modificada en la fuente después de la versión de aquí: 21, fuera del alcance de este repositorio: 4, nueva en la fuente, aún no publicada aquí: 1); sin motivo: 0.
 
 En detalle: [monitoring/](monitoring/README.md). Para programas: [data/checks/latest.json](data/checks/latest.json).

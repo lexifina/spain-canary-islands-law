@@ -10,6 +10,6 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 - The official source last read and every act held here checked against it: **2026-11-23 13:50 UTC**.
 - Acts held here: 198; current at the source: 177; changed at the source since the version held here: 21; no longer at the source: 0.
-- Not published: 25 (changed at the source since the version held here: 21, outside this repository's scope: 4); with no reason: 0.
+- Not published: 26 (changed at the source since the version held here: 21, outside this repository's scope: 4, new at the source, not published here yet: 1); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
